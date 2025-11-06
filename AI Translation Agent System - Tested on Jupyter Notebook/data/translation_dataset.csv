@@ -1,0 +1,674 @@
+id,input_text,target_language,human_translated_text
+1,அழுமூஞ்சியாக இருக்காதே.,en,Don’t be a cry-baby. / Don’t be a fusspot.
+2,சிணுங்குவதை நிறுத்து.,en,Stop whining. / Stop whimpering.
+3,நீ மிகவும் குறும்புக்காரி.,en,You are very naughty.
+4,இந்த பையன் மிகவும் தேட்தடச் சேயவன்.,en,This boy is very mischievous; troublesome.
+5,ஒழுங்கா இரு.,en,Behave yourself. / Keep quiet.
+6,அவள் ஒரு சகட்டிக்காரி.,en,"She is smart, bright and intelligent."
+7,அவள் சரம் வாயாடி.,en,She yaps a lot. / She is a chatterbox. / Talkative. Doesn’t stop talking.
+8,அவள் பிடிவாதமானவள்.,en,Stubborn; adamant.
+9,அவள் காபி தரையில் சிந்திவிட்டாள்.,en,She spilled coffee on the floor. / She messed up the place.
+10,எல்லாவற்றையும் நீ தான் செய்யணும். நீ வளர்ந்துவிட்டாய்.,en,Help yourself. (Do it yourself.) You’ve grown up.
+11,என்னை நம்பி இருக்காதே. என்னிடம் உதவி எதிர்பார்க்காதே.,en,Don’t depend on me. / Don’t bother me.
+12,எதிர்த்து பேசாதே. பெரியவர்களுக்கு எதிர்த்து பேசாதே.,en,Don’t answer back. / Don’t talk back. / Don’t retort.
+13,நான் சொல்வதை கேள்.,en,Just listen to me. / Obey me.
+14,சொடக்கு அடிக்காதே. அது ஒரு சகட்ட பழக்கம்.,en,Don’t crack your knuckles. / That’s a bad habit.
+15,சரியான நேரத்தில் வரவும். சரியான நேரத்தில் இருங்கள்.,en,You should turn up on time. / Be punctual. / Reach the office on time. / Don’t be late.
+16,என் மேலாளர் என் கோரிக்கையை நிராகரித்தார்.,en,My boss turned down my request.
+17,என் மேலாளர் எனக்கு லீவு கொடுக்க மறுத்துவிட்டார்.,en,My boss refused to grant me leave. / He rejected my leave application.
+18,என் மேலாளருடன் எனக்கு இன்று நேரம் சரியில்லை.,en,I had a hard time with my boss today. / My boss was tough and rude with me.
+19,நான் என்ன செய்தாலும் அவர் குற்றம் கண்டுபிடிக்கிறார்.,en,He is finding fault with whatever I do.
+20,அவர் எப்போதும் என் தவறில் சின்ன சின்ன விஷயத்திற்கெல்லாம் குற்றம் கண்டுபிடிக்கிறார்.,en,My boss is always nit-picking in my work.
+21,என் மேலாளர் என்னை திட்டினார்.,en,My boss scolded me. / He rebuked me.
+22,என் மேலாளர் மிகவும் கண்டிப்பானவர்.,en,I have a very strict boss.
+23,அவர் ஒருபோதும் சமாதானமாக இருப்பதில்லை.,en,He is never lenient.
+24,அலுவலகத்தில் கடினமான வேலை.,en,It is tough work at the office.
+25,அலுவலகத்தில் அதிகமான வேலை.,en,Heavy work at the office.
+26,இதை எப்படி செய்வது என்று தெரியவில்லை.,en,I don’t know how to do this.
+27,இதை எப்படி செய்வது என்று தெரியாமல் திக்குமுக்காடிக் காண்டு இருக்கிறேன்.,en,I am at a loss to know how to do this.
+28,நீங்கள் எனக்கு உதவ முடியுமா?,en,"Could you help me, if you don’t mind?"
+29,தயவுசெய்து ஒரு உதவி செய்ய முடியுமா?,en,Would you mind lending me a helping hand?
+30,சாப்பாடு பரிமாறு,en,Serve food. (Don’t say: Keep the food) / (Second serving)
+31,ருசியான சாப்பாடு,en,Tasty food. / Yummy food. / Delicious; delectable; palatable.
+32,நான் உணவை ரசித்து சாப்பிட்டேன்,en,I relished the food.
+33,உணவின் முக்கியப் பகுதி,en,Main course.
+34,விக்குது; விக்கல் எடுக்குது,en,I am hiccupping.
+35,பசி யித்வத கிள்ளுது,en,I am starved. / I am famished.
+36,பசிதய இல்வல,en,I am full. / I am not hungry. / My stomach is full.
+37,யித்வத புரட்டுது,en,Stomach churning. / My stomach is churning.
+38,யிறு கம்மமன்று இருக்குது,en,I feel full. (Due to indigestion).
+39,அவனுக்கு புத்திகூர்மை அதிகம்,en,He is sharp and intelligent. / He is brainy.
+40,அவனுக்கு புத்தி இல்ல. ஒரு மரமண் வட,en,He is dumb. / He is stupid. / Dull-headed. / Brainless fellow.
+41,இந்த இடம் பிசு பிசு மைன்று இருக்கிறது,en,This place is sticky.
+42,தவரவய ஈர துணிவய வைத்து சுத்தம் செய்,en,Mop the floor.
+43,ஒட்டவட எடு,en,Remove the cobwebs.
+44,அதில் தூசி தட்டிவிடு,en,Dust it.
+45,பழக்கமாக,en,Usually. / Customarily.
+46,பழக்கத்துக்கு மாறாக,en,Unusually. / Contrary to the custom.
+47,நருக்கு நர்,en,Direct. / One to one (conversation). / One on one (competition).
+48,எப்படியும் சமாளிக்க டைண் டும்,en,Try to manage somehow. / Cope with it. / Grapple with it. / Manoeuvre.
+49,என் அத்தி பூத்தது போல வருகிறீர்கள்,en,You come here once in a blue moon. / You seldom come here. / You rarely come here. / You come here occasionally.
+50,இப்போமாதல்லாம் வியாபாரம் குறைந்துவிட்டது,en,The business is dull nowadays. / It has slackened. / It has slowed down.
+51,நாம் செலவை குறைக்க டைண் டும்,en,We’ve got to cut down our expenses.
+52,வியாயக்கட்டி யிற்வற கட்டி டசய்த்து வைத்த பணம்,en,It is hard-earned money. / (Saving for the rainy day).
+53,சின்ன விஷயத்தை ஊதி மபரிதாக்காதே,en,Don’t blow it out of proportion.
+54,வகக்கு எட்டியது காய்க்கு எட்டவில்லை,en,Many a slip between the cup and the lip. (Missed opportunity).
+55,அது அப்படியே இருக்கட்டும்,en,Let it be. / Leave it as it is.
+56,சரி. விஷயத்துக்கு வரலாம்,en,OK. Let’s get down to business.
+57,இது எல்லாவற்றிலும் நல்லது,en,This is by far the best.
+58,கண் ட கண் ட மபாருள்கள்,en,Random things.
+59,சரி. இப்ப நாம் தொடங்கலாம்,en,OK. Here we go. / Let’s start. / Let’s get started.
+60,மபரிய உபடதசம் பண் ணாதே,en,Don’t start your sermons. / Don’t sermonise.
+61,எனக்கு ஒரு டயாசவன தோன்றுகிறது,en,I have an idea. / I’ve hit upon a new idea.
+62,மீண் டும் மீண் டும்,en,Time and again. / Again and again. / Repeatedly.
+63,இதுதான் வாழ்க்கையில் எல்லாம் என்று எண்ணிவிடாதே,en,This is not the be all and end all in life.
+64,,en,
+65,சரி,en,Alright. OK
+66,நீங்கள் தயாரா?,en,Are you ready?
+67,உங்கள் இஷ்டம்,en,As you wish. As you like.
+68,கவனமாக இரு,en,Be careful.
+69,சரியான நேரத்தில் இருங்கள்,en,Be punctual.
+70,தயாராக இருங்கள்,en,Be ready.
+71,ஜாக்கிரதை (நாய்கள் ஜாக்கிரதை),en,Beware of dogs.
+72,சீக்கிரம் வா,en,Come back soon.
+73,முடிந்தது என்று கருதுங்கள்,en,Consider this as done.
+74,தாமதிக்க வேண்டாம்,en,Don’t be late.
+75,பயப்பட வேண்டாம்,en,Don’t be scared.
+76,முட்டாள்தனமாக இருக்க வேண்டாம்,en,Don’t be silly.
+77,பணம் கடன் வாங்க வேண்டாம்,en,Don’t borrow money.
+78,கிரெடிட்டில் வாங்க வேண்டாம்,en,Don’t buy on credit.
+79,கோபப்பட வேண்டாம்,en,Don’t be angry.
+80,என்னை தவறாக நினைக்க வேண்டாம்,en,Don’t get me wrong.
+81,தயங்க வேண்டாம்,en,Don’t hesitate. Be frank.
+82,முட்டாள்தனமாக பேச வேண்டாம்,en,Don’t talk nonsense.
+83,திரை திற,en,Draw the curtain.
+84,என்னை மன்னித்துவிடு,en,Forgive me.
+85,ரதாதலந்து போ,en,Get lost.
+86,திரும்பிச் செல்,en,Go back.
+87,ஒழிஞ்சு போ,en,Go to hell.
+88,நீ உன்னை நம்பு,en,Have faith in yourself.
+89,அவர் என் சிறந்த நண்பர்,en,He is my best friend.
+90,அவர் வீட்டில் இல்லை,en,He is not home.
+91,அவர் கறுப்பானவர்,en,His complexion is dark.
+92,உன் நாக்கை அடக்கு,en,Hold your tongue. Mind your words.
+93,எப்படி இது?,en,How come?
+94,அதைச் சொல்ல உனக்கு எவ்வளவு தைரியம்?,en,How dare you say that?
+95,எவ்வளவு அருவருப்பானது,en,How disgusting.
+96,எவ்வளவு அழகு,en,How lovely! How nice! So sweet!
+97,உங்கள் வயது என்ன? எனக்கு வயது 12.,en,How old are you? I just turned 12.
+98,சீக்கிரம்,en,Hurry up.
+99,எனக்கு கொஞ்சம் பணம் வேண்டும்,en,I am in need of some money.
+100,நான் வந்துகொண்டு இருக்கிறேன்,en,I am just coming.
+101,உன்னை பார்த்து பெருமைப்படுகிறேன்,en,I am proud of you.
+102,எனக்கு நேரம் இல்லை,en,I don’t have time.
+103,எனக்கு இது எப்படி செய்ய வேண்டும் என்று தெரியாது,en,I don’t know how to do this.
+104,நான் அப்படி நினைக்கவில்லை,en,I don’t think so.
+105,என்னிடம் எதுவும் இல்லை,en,I don't have anything.
+106,எனக்கு காய்ச்சல் மற்றும் தொண்டை வலி உள்ளது,en,I have a fever and sore throat.
+107,எனக்கு எதுவும் தெரியாது,en,I have no idea.
+108,எனக்கு நேரமில்லை,en,I have no time.
+109,நான் அதைப் பற்றி சிந்திக்க வேண்டும்,en,I have to think about it.
+110,நான் உன்னை மிஸ் செய்தேன்,en,I missed you very much.
+111,நான் முடிந்தவரை முயற்சிப்பேன்,en,I will try my best.
+112,அப்படியா?,en,Is it?
+113,பத்து நாற்கால் மணி,en,It’s quarter past 10.
+114,வரிசையை முந்தாதே,en,Don’t jump the queue.
+115,என்னை தனியாக இருக்க விடு,en,Leave me alone.
+116,அது இருக்கட்டும்,en,Let it be.
+117,நான் பார்க்கிறேன்,en,Let me see.
+118,நான் சொல்வதை கேள்,en,Listen to me.
+119,இரண்டு நாட்களாக பார்க்கவில்லை,en,Long-time no see.
+120,இன்றைய நாள் மகிழ்ச்சியானதாக இருக்கட்டும்,en,Many happy returns of the day!
+121,கடவுள் உன்னை ஆசீர்வதிப்பாராக,en,May God bless you!
+122,நான் உங்களுக்கு உதவலாமா?,en,May I help you?
+123,நீ உன் வேலையைப் பார்,en,Mind your own business.
+124,தயவுசெய்து ஒதுங்குங்கள்,en,"Move aside, please."
+125,அதைப் பற்றி கவலைப்படாதே,en,Never mind.
+126,"இல்லை, ஒன்றுமில்லை",en,"No, Not at all."
+127,சிறப்பாக எதுவும் இல்லை,en,Nothing special.
+128,நிச்சயமாக,en,Of course.
+129,நம்பிக்கையாக இரு,en,Rest assured.
+130,மீண்டும் சந்திப்போம்,en,See you again. See you later.
+131,நாம் தொடங்கலாமா?,en,Shall we start?
+132,சிரமத்திற்கு மன்னிக்கவும்,en,Sorry for the inconvenience.
+133,என்ன நினைக்கிறீர்கள் அதைச் சொல்லுங்கள்,en,Speak your mind.
+134,விளக்கை அணைக்கவும்,en,Switch off the light.
+135,விளக்கை போடவும்,en,Switch on the light.
+136,பேசுவதற்கு முன் இரண்டு முறை சிந்தியுங்கள்,en,Think twice before you speak.
+137,இப்படி நல்லது தொடரட்டும்,en,Touch wood.
+138,புரிந்துகொள்ள முயற்சி செய்,en,Try to understand.
+139,அடுத்த முறை அதிர்ஷ்டத்தை முயற்சி செய்,en,Try your luck next time.
+140,உன் மூளைப் பயன்படுத்து,en,Use your brain.
+141,இடத்தை காலி செய்,en,Vacate this place.
+142,ஒரு நிமிடம் காத்திரு,en,Wait a minute.
+143,"கவனியுங்கள், இந்த இடம் வழுக்கும்",en,Watch out. This place is slippery.
+144,என்ன ஒரு பரிதாபம்,en,What a pity!
+145,என்ன ஒரு அவமானம்,en,What a shame!
+146,என்ன ஒரு யோசனை,en,What an idea!
+147,என்னால் என்ன செய்ய முடியும்,en,What can I do?
+148,நீங்கள் என்ன சொல்கிறீர்கள்?,en,What do you mean?
+149,என்ன முட்டாள்தனம்,en,What nonsense?
+150,இன்றைய நாள் என்ன?,en,What’s the day today?
+151,நேரம் என்ன?,en,What’s the time?
+152,யார் கவலைப்படுகிறார்கள்?,en,Who cares?
+153,யார் அங்கே?,en,Who is there?
+154,இது யார்? இது நான்,en,Who is this? It’s me.
+155,யாருக்கு தெரியும்?,en,Who knows?
+156,கொஞ்சம் தேநீர் வேண்டுமா?,en,Would you like some tea?
+157,நீங்கள் தவறாக நினைக்கிறீர்கள்,en,You are mistaken. You are making a mistake.
+158,நீ நகைச்சுவை செய்கிறாய்,en,You must be joking. You must be kidding.
+159,இந்த பொருளுக்கு அதிக தேவை உள்ளது,en,There is a great demand for this item.
+160,தளபாடங்கள் இங்கே மலிவானவை,en,Furniture is quite cheap here.
+161,கண்ணாடி உடையக்கூடியது,en,Glass is fragile. Handle with care.
+162,அவர் மிகவும் கூர்மையானவர்,en,He is quite sharp; understands easily.
+163,இந்த பெண் மிகவும் படிப்பாளி,en,This girl is quite studious.
+164,இந்த தளபாடங்கள் மிகவும் உறுதியானவை,en,This furniture is quite sturdy.
+165,அவர் ஒரு கஞ்சன்,en,He is a miser. Doesn’t spend even for essentials.
+166,human_translated_text,ta,இதை எப்படி செய்வது என்று தெரியாமல் திக்குமுக்காடிக் காண்டு இருக்கிறேன்.
+167,Don’t be a cry-baby. / Don’t be a fusspot.,ta,நீங்கள் எனக்கு உதவ முடியுமா?
+168,Stop whining. / Stop whimpering.,ta,தயவுசெய்து ஒரு உதவி செய்ய முடியுமா?
+169,You are very naughty.,ta,சாப்பாடு பரிமாறு
+170,This boy is very mischievous; troublesome.,ta,ருசியான சாப்பாடு
+171,Behave yourself. / Keep quiet.,ta,நான் உணவை ரசித்து சாப்பிட்டேன்
+172,"She is smart, bright and intelligent.",ta,உணவின் முக்கியப் பகுதி
+173,She yaps a lot. / She is a chatterbox. / Talkative. Doesn’t stop talking.,ta,விக்குது; விக்கல் எடுக்குது
+174,Stubborn; adamant.,ta,பசி யித்வத கிள்ளுது
+175,She spilled coffee on the floor. / She messed up the place.,ta,பசிதய இல்வல
+176,Help yourself. (Do it yourself.) You’ve grown up.,ta,யித்வத புரட்டுது
+177,Don’t depend on me. / Don’t bother me.,ta,யிறு கம்மமன்று இருக்குது
+178,Don’t answer back. / Don’t talk back. / Don’t retort.,ta,அவனுக்கு புத்திகூர்மை அதிகம்
+179,Just listen to me. / Obey me.,ta,அவனுக்கு புத்தி இல்ல. ஒரு மரமண் வட
+180,Don’t crack your knuckles. / That’s a bad habit.,ta,இந்த இடம் பிசு பிசு மைன்று இருக்கிறது
+181,You should turn up on time. / Be punctual. / Reach the office on time. / Don’t be late.,ta,தவரவய ஈர துணிவய வைத்து சுத்தம் செய்
+182,My boss turned down my request.,ta,ஒட்டவட எடு
+183,My boss refused to grant me leave. / He rejected my leave application.,ta,அதில் தூசி தட்டிவிடு
+184,I had a hard time with my boss today. / My boss was tough and rude with me.,ta,பழக்கமாக
+185,He is finding fault with whatever I do.,ta,பழக்கத்துக்கு மாறாக
+186,My boss is always nit-picking in my work.,ta,நருக்கு நர்
+187,My boss scolded me. / He rebuked me.,ta,எப்படியும் சமாளிக்க டைண் டும்
+188,I have a very strict boss.,ta,என் அத்தி பூத்தது போல வருகிறீர்கள்
+189,He is never lenient.,ta,இப்போமாதல்லாம் வியாபாரம் குறைந்துவிட்டது
+190,It is tough work at the office.,ta,நாம் செலவை குறைக்க டைண் டும்
+191,Heavy work at the office.,ta,வியாயக்கட்டி யிற்வற கட்டி டசய்த்து வைத்த பணம்
+192,I don’t know how to do this.,ta,சின்ன விஷயத்தை ஊதி மபரிதாக்காதே
+193,I am at a loss to know how to do this.,ta,வகக்கு எட்டியது காய்க்கு எட்டவில்லை
+194,"Could you help me, if you don’t mind?",ta,அது அப்படியே இருக்கட்டும்
+195,Would you mind lending me a helping hand?,ta,சரி. விஷயத்துக்கு வரலாம்
+196,Serve food. (Don’t say: Keep the food) / (Second serving),ta,இது எல்லாவற்றிலும் நல்லது
+197,Tasty food. / Yummy food. / Delicious; delectable; palatable.,ta,கண் ட கண் ட மபாருள்கள்
+198,I relished the food.,ta,சரி. இப்ப நாம் தொடங்கலாம்
+199,Main course.,ta,மபரிய உபடதசம் பண் ணாதே
+200,I am hiccupping.,ta,எனக்கு ஒரு டயாசவன தோன்றுகிறது
+201,I am starved. / I am famished.,ta,மீண் டும் மீண் டும்
+202,I am full. / I am not hungry. / My stomach is full.,ta,இதுதான் வாழ்க்கையில் எல்லாம் என்று எண்ணிவிடாதே
+203,Stomach churning. / My stomach is churning.,ta,
+204,I feel full. (Due to indigestion).,ta,சரி
+205,He is sharp and intelligent. / He is brainy.,ta,நீங்கள் தயாரா?
+206,He is dumb. / He is stupid. / Dull-headed. / Brainless fellow.,ta,உங்கள் இஷ்டம்
+207,This place is sticky.,ta,கவனமாக இரு
+208,Mop the floor.,ta,சரியான நேரத்தில் இருங்கள்
+209,Remove the cobwebs.,ta,தயாராக இருங்கள்
+210,Dust it.,ta,ஜாக்கிரதை (நாய்கள் ஜாக்கிரதை)
+211,Usually. / Customarily.,ta,சீக்கிரம் வா
+212,Unusually. / Contrary to the custom.,ta,முடிந்தது என்று கருதுங்கள்
+213,Direct. / One to one (conversation). / One on one (competition).,ta,தாமதிக்க வேண்டாம்
+214,Try to manage somehow. / Cope with it. / Grapple with it. / Manoeuvre.,ta,பயப்பட வேண்டாம்
+215,You come here once in a blue moon. / You seldom come here. / You rarely come here. / You come here occasionally.,ta,முட்டாள்தனமாக இருக்க வேண்டாம்
+216,The business is dull nowadays. / It has slackened. / It has slowed down.,ta,பணம் கடன் வாங்க வேண்டாம்
+217,We’ve got to cut down our expenses.,ta,கிரெடிட்டில் வாங்க வேண்டாம்
+218,It is hard-earned money. / (Saving for the rainy day).,ta,கோபப்பட வேண்டாம்
+219,Don’t blow it out of proportion.,ta,என்னை தவறாக நினைக்க வேண்டாம்
+220,Many a slip between the cup and the lip. (Missed opportunity).,ta,தயங்க வேண்டாம்
+221,Let it be. / Leave it as it is.,ta,முட்டாள்தனமாக பேச வேண்டாம்
+222,OK. Let’s get down to business.,ta,திரை திற
+223,This is by far the best.,ta,என்னை மன்னித்துவிடு
+224,Random things.,ta,ரதாதலந்து போ
+225,OK. Here we go. / Let’s start. / Let’s get started.,ta,திரும்பிச் செல்
+226,Don’t start your sermons. / Don’t sermonise.,ta,ஒழிஞ்சு போ
+227,I have an idea. / I’ve hit upon a new idea.,ta,நீ உன்னை நம்பு
+228,Time and again. / Again and again. / Repeatedly.,ta,அவர் என் சிறந்த நண்பர்
+229,This is not the be all and end all in life.,ta,அவர் வீட்டில் இல்லை
+230,,ta,அவர் கறுப்பானவர்
+231,Alright. OK,ta,உன் நாக்கை அடக்கு
+232,Are you ready?,ta,எப்படி இது?
+233,As you wish. As you like.,ta,அதைச் சொல்ல உனக்கு எவ்வளவு தைரியம்?
+234,Be careful.,ta,எவ்வளவு அருவருப்பானது
+235,Be punctual.,ta,எவ்வளவு அழகு
+236,Be ready.,ta,உங்கள் வயது என்ன? எனக்கு வயது 12.
+237,Beware of dogs.,ta,சீக்கிரம்
+238,Come back soon.,ta,எனக்கு கொஞ்சம் பணம் வேண்டும்
+239,Consider this as done.,ta,நான் வந்துகொண்டு இருக்கிறேன்
+240,Don’t be late.,ta,உன்னை பார்த்து பெருமைப்படுகிறேன்
+241,Don’t be scared.,ta,எனக்கு நேரம் இல்லை
+242,Don’t be silly.,ta,எனக்கு இது எப்படி செய்ய வேண்டும் என்று தெரியாது
+243,Don’t borrow money.,ta,நான் அப்படி நினைக்கவில்லை
+244,Don’t buy on credit.,ta,என்னிடம் எதுவும் இல்லை
+245,Don’t be angry.,ta,எனக்கு காய்ச்சல் மற்றும் தொண்டை வலி உள்ளது
+246,Don’t get me wrong.,ta,எனக்கு எதுவும் தெரியாது
+247,Don’t hesitate. Be frank.,ta,எனக்கு நேரமில்லை
+248,Don’t talk nonsense.,ta,நான் அதைப் பற்றி சிந்திக்க வேண்டும்
+249,Draw the curtain.,ta,நான் உன்னை மிஸ் செய்தேன்
+250,Forgive me.,ta,நான் முடிந்தவரை முயற்சிப்பேன்
+251,Get lost.,ta,அப்படியா?
+252,Go back.,ta,பத்து நாற்கால் மணி
+253,Go to hell.,ta,வரிசையை முந்தாதே
+254,Have faith in yourself.,ta,என்னை தனியாக இருக்க விடு
+255,He is my best friend.,ta,அது இருக்கட்டும்
+256,He is not home.,ta,நான் பார்க்கிறேன்
+257,His complexion is dark.,ta,நான் சொல்வதை கேள்
+258,Hold your tongue. Mind your words.,ta,இரண்டு நாட்களாக பார்க்கவில்லை
+259,How come?,ta,இன்றைய நாள் மகிழ்ச்சியானதாக இருக்கட்டும்
+260,How dare you say that?,ta,கடவுள் உன்னை ஆசீர்வதிப்பாராக
+261,How disgusting.,ta,நான் உங்களுக்கு உதவலாமா?
+262,How lovely! How nice! So sweet!,ta,நீ உன் வேலையைப் பார்
+263,How old are you? I just turned 12.,ta,தயவுசெய்து ஒதுங்குங்கள்
+264,Hurry up.,ta,அதைப் பற்றி கவலைப்படாதே
+265,I am in need of some money.,ta,"இல்லை, ஒன்றுமில்லை"
+266,I am just coming.,ta,சிறப்பாக எதுவும் இல்லை
+267,I am proud of you.,ta,நிச்சயமாக
+268,I don’t have time.,ta,நம்பிக்கையாக இரு
+269,I don’t know how to do this.,ta,மீண்டும் சந்திப்போம்
+270,I don’t think so.,ta,நாம் தொடங்கலாமா?
+271,I don't have anything.,ta,சிரமத்திற்கு மன்னிக்கவும்
+272,I have a fever and sore throat.,ta,என்ன நினைக்கிறீர்கள் அதைச் சொல்லுங்கள்
+273,I have no idea.,ta,விளக்கை அணைக்கவும்
+274,I have no time.,ta,விளக்கை போடவும்
+275,I have to think about it.,ta,பேசுவதற்கு முன் இரண்டு முறை சிந்தியுங்கள்
+276,I missed you very much.,ta,இப்படி நல்லது தொடரட்டும்
+277,I will try my best.,ta,புரிந்துகொள்ள முயற்சி செய்
+278,Is it?,ta,அடுத்த முறை அதிர்ஷ்டத்தை முயற்சி செய்
+279,It’s quarter past 10.,ta,உன் மூளைப் பயன்படுத்து
+280,Don’t jump the queue.,ta,இடத்தை காலி செய்
+281,Leave me alone.,ta,ஒரு நிமிடம் காத்திரு
+282,Let it be.,ta,"கவனியுங்கள், இந்த இடம் வழுக்கும்"
+283,Let me see.,ta,என்ன ஒரு பரிதாபம்
+284,Listen to me.,ta,என்ன ஒரு அவமானம்
+285,Long-time no see.,ta,என்ன ஒரு யோசனை
+286,Many happy returns of the day!,ta,என்னால் என்ன செய்ய முடியும்
+287,May God bless you!,ta,நீங்கள் என்ன சொல்கிறீர்கள்?
+288,May I help you?,ta,என்ன முட்டாள்தனம்
+289,Mind your own business.,ta,இன்றைய நாள் என்ன?
+290,"Move aside, please.",ta,நேரம் என்ன?
+291,Never mind.,ta,யார் கவலைப்படுகிறார்கள்?
+292,"No, Not at all.",ta,யார் அங்கே?
+293,Nothing special.,ta,இது யார்? இது நான்
+294,Of course.,ta,யாருக்கு தெரியும்?
+295,Rest assured.,ta,கொஞ்சம் தேநீர் வேண்டுமா?
+296,See you again. See you later.,ta,நீங்கள் தவறாக நினைக்கிறீர்கள்
+297,Shall we start?,ta,நீ நகைச்சுவை செய்கிறாய்
+298,Sorry for the inconvenience.,ta,இந்த பொருளுக்கு அதிக தேவை உள்ளது
+299,Speak your mind.,ta,தளபாடங்கள் இங்கே மலிவானவை
+300,Switch off the light.,ta,கண்ணாடி உடையக்கூடியது
+301,Switch on the light.,ta,அவர் மிகவும் கூர்மையானவர்
+302,Think twice before you speak.,ta,இந்த பெண் மிகவும் படிப்பாளி
+303,Touch wood.,ta,இந்த தளபாடங்கள் மிகவும் உறுதியானவை
+304,Try to understand.,ta,அவர் ஒரு கஞ்சன்
+305,Are those people better than these?,hi,क्या वे लोग इनसे ज़्यादा अच्छे हैं?
+306,This woman is less active than that woman.,hi,यह औरत उस औरत से कम चुस्त है।
+307,Do you like Delhi?,hi,क्या आपको दिल्ली पसंद है?
+308,Rakesh doesn’t like this girl.,hi,राकेश को यह लड़की पसंद नहीं।
+309,You like to stroll in the garden.,hi,तुझे बाग में सैर करना पसंद है।
+310,He/She likes our work.,hi,उसे हमारा काम अच्छा लगता है।
+311,This girl doesn’t like Rakesh.,hi,इस लड़की को राकेश अच्छा नहीं लगता।
+312,Do you like to drive?,hi,तुम्हें गाड़ी चलाना अच्छा लगता है?
+313,I like Gaurav.,hi,मैं गौरव को चाहती हूँ।
+314,He wants to eat a samosa.,hi,वह समोसा खाना चाहता है।
+315,I don’t want to go to the market.,hi,मैं बाज़ार जाना नहीं चाहती।
+316,I need a new car.,hi,मुझे नई गाड़ी चाहिए।
+317,He/She should come home.,hi,इसे घर आना चाहिए।
+318,They should not work on Sunday.,hi,इन्हें रविवार को काम नहीं करना चाहिए।
+319,I am hungry.,hi,मुझे भूख लगी है।
+320,I am thirsty.,hi,मुझे प्यास लगी है।
+321,I find yogurt sour.,hi,मुझे दही खट्टा लगता है।
+322,I find bitter gourd bitter.,hi,मुझे करेला कड़वा लगता है।
+323,I find banana sweet.,hi,मुझे केला मीठा लगता है।
+324,I find mango wafer sweet and sour.,hi,मुझे आम पापड़ खट्टा-मीठा लगता है।
+325,I find puff pastry salty.,hi,मुझे समोसा नमकीन लगता है।
+326,I find fruit fresh.,hi,मुझे फल ताज़ा लगता है।
+327,I find old butter stale.,hi,मुझे परसों का मक्खन बासी लगता है।
+328,I find rasgulla soft.,hi,मुझे रसगुल्ला नरम लगता है।
+329,I find jackfruit hard.,hi,मुझे कटहल सख़्त लगता है।
+330,I find chickpeas spicy.,hi,मुझे चना मसाला मसालेदार लगता है।
+331,I find water bland.,hi,मुझे पानी फीका लगता है।
+332,Sonal’s uncle,hi,सोनल का चाचा
+333,Yashu’s book,hi,यशु की किताब
+334,Deepak’s table,hi,दीपक का मेज़
+335,Prashant’s laptop,hi,प्रशांत का लैपटॉप
+336,नमस्ते,en,Hello
+337,क्या हाल है?,en,How are you?
+338,नमस्ते,en,Hi
+339,मैं अच्छा हूँ,en,I'm good
+340,मैं ठीक हूँ,en,I'm okay
+341,मुझे अच्छा लगता है,en,I feel good
+342,मुझे बुरा लगता है,en,I feel bad
+343,आप क्या?,en,What about you?
+344,और आप?,en,And you?
+345,तुम्हारा नाम क्या है?,en,What's your name?
+346,मेरा नाम ... है,en,My name is...
+347,आपसे मिलकर अच्छा लगा,en,Nice to meet you
+348,क्या हो रहा है?,en,What's up?
+349,नया क्या है?,en,What's new?
+350,बाथरूम कहाँ है?,en,Where is the bathroom?
+351,क्या तुम वो फिर से कह सकते हो?,en,Can you say that again?
+352,तुम कहाँ जॉब करती हो?,en,Where do you work?
+353,क्या आप अंग्रेज़ी बोलते हैं?,en,Do you speak English?
+354,माफ़ कीजिए,en,Excuse me
+355,मुझे माफ कर दो,en,I'm sorry
+356,धन्यवाद,en,Thank you
+357,आपका स्वागत है,en,You're welcome
+358,हाँ,en,Yes
+359,नहीं,en,No
+360,मुझे समझ नहीं आता,en,I don't understand
+361,वास्तव में?,en,Really?
+362,कृपया,en,Please
+363,मुझे यह पसंद है,en,I like it
+364,मुझे यह पसंद नहीं है,en,I don't like it
+365,आप क्या काम करते हैं?,en,What's your job?
+366,मैं हूँ...,en,I am...
+367,अलविदा,en,Bye
+368,बाद में मिलते हैं,en,See you later
+369,फिर मिलते हैं,en,Let's meet again
+370,ठंडा,en,Cool
+371,महान,en,Great
+372,अच्छा,en,Good
+373,खराब,en,Bad
+374,आज मौसम अच्छा है,en,The weather is nice today
+375,आज मौसम खराब है,en,The weather is bad today
+376,आपका पसंदीदा भोजन क्या है?,en,What's your favorite food?
+377,चलो खाने चलते हैं,en,Let's go eat
+378,आप खाने के जाने के लिए करना चाहते हैं?,en,Do you want to go eat?
+379,आपका पसंदीदा संगीत क्या है?,en,What's your favorite music?
+380,मुझे पसंद है...,en,I like...
+381,स्वादिष्ट,en,Delicious
+382,यह स्वादिष्ट है,en,It is delicious
+383,इसका स्वाद अच्छा है,en,It tastes good
+384,यह अच्छा स्वाद नहीं है,en,It does not taste good
+385,आपकी उम्र क्या है?,en,How old are you?
+386,,en,
+387,आपकी उम्र/आयु क्या है?,en,What is your age?
+388,आपकी उम्र/आयु कितनी है?,en,How old are you?
+389,आप कितने साल के हैं?,en,How old are you?
+390,मेरी उम्र २१ साल है।,en,I am 21 years old.
+391,मैं २१ साल का हूँ।,en,I (male) am 21 years old.
+392,मैं २१ साल की हूँ।,en,I (female) am 21 years old.
+393,आपकी आयु कितनी है?,en,How old are you?
+394,मेरी आयु १९ वर्ष है।,en,I am 19 years old.
+395,मैं १९ साल का हूँ।,en,I (male) am 19 years old.
+396,मैं १९ साल की हूँ।,en,I (female) am 19 years old.
+397,मैं ३० साल का हूँ।,en,I (male) am 30 years old.
+398,मैं ३० साल की हूँ।,en,I (female) am 30 years old.
+399,मैं विद्यालय में पढ़ता हूँ।,en,I study in school.
+400,वह बाग में सैर करता है।,en,He strolls in the garden.
+401,यह भोजनालय में खाती है।,en,She eats in the restaurant.
+402,मीना और शालु बाज़ार में घूमते हैं।,en,Meena and Shalu roam in the market.
+403,आप होटल में सोते हैं।,en,You sleep in a hotel.
+404,तुम सिनेमा घर में फ़िल्म देखते हो।,en,You watch a movie in a movie theater.
+405,ये मंदिर में पूजा करते हैं।,en,They worship in the temple.
+406,मैं घर में रहती हूँ।,en,I live in a house.
+407,मैं विद्यालय में पढ़ता हूँ।,en,I study in school.
+408,वह बाग में सैर करता है।,en,He strolls in the garden.
+409,यह भोजनालय में खाती है।,en,She eats in the restaurant.
+410,मीना और शालु बाज़ार में घूमते हैं।,en,Meena and Shalu roam in the market.
+411,आप होटल में सोते हैं।,en,You sleep in a hotel.
+412,तुम सिनेमा घर में फ़िल्म देखते हो।,en,You watch a movie in a movie theater.
+413,ये मंदिर में पूजा करते हैं।,en,They worship in the temple.
+414,मैं घर में रहती हूँ।,en,I live in a house.
+415,वे समुद्र तट पर घूमते हैं।,en,They roam at the beach.
+416,मैं रेलवे स्टेशन पर हूँ।,en,I am at the railway station.
+417,वह बस स्टैंड पर इंतज़ार करता है।,en,He waits at the bus stop.
+418,मैं घर पर हूँ।,en,I am at home.
+419,मैं समय पर दफ़्तर जाता हूँ।,en,I go to the office on time.
+420,मैं काम पर जाता हूँ।,en,I go to work.
+421,आप कहाँ से हैं?,en,Where are you from?
+422,मैं अमरीका से हूँ।,en,I am from America.
+423,वह स्वीडन से है।,en,He/She is from Sweden.
+424,आपका दोस्त मिस्र से है।,en,Your friend is from Egypt.
+425,मेरी नानी भारत से है।,en,My grandma is from India.
+426,वह दिसंबर तक दिल्ली में रहता है।,en,He stays in Delhi till December.
+427,क्या आप शुक्रवार तक काम करते हैं?,en,Do you work till Friday?
+428,यह रास्ता कहाँ तक जाता है?,en,How far does this route go?
+429,यह रास्ता संग्रहालय तक जाता है।,en,This route goes till the museum.
+430,वह सुबह तक सोता है।,en,He sleeps until the morning.
+431,शाम तक हम घर नहीं आते।,en,We don’t come home till the evening.
+432,वे आधी रात तक फ़िल्म देखते हैं।,en,They watch films until midnight.
+433,अमित का भाई,en,Amit’s brother
+434,वसुधा की बहन,en,Vasudha’s sister
+435,आपकी किताब किस रंग की है?,en,What color is your book?
+436,मेरी किताब नीली है।,en,My book is blue.
+437,मीरा का घर किस रंग का है?,en,What color is Mira’s house?
+438,मीरा का घर पीला है।,en,Mira’s house is yellow.
+439,घास किस रंग की होती है?,en,What color is grass?
+440,घास हरी होती है।,en,Grass is green.
+441,वह भूरा सोफ़ा किसका है?,en,Whose brown sofa is that?
+442,वह भूरा सोफ़ा मेरा है।,en,That brown sofa is mine.
+443,वे रंग-बिरंगे फूल किसके हैं?,en,Whose colorful flowers are those?
+444,वे रंग-बिरंगे फूल कुलदीप के हैं।,en,Those colorful flowers are Kuldeep’s.
+445,ये सफ़ेद किताबें किसकी हैं?,en,Whose white books are these?
+446,ये सफ़ेद किताबें रवीना की हैं।,en,These white books are Raveena’s.
+447,कुंग फू पांडा मोटा और बड़ा है।,en,Kung Fu Panda is fat and big.
+448,आपकी कुर्सी छोटी है।,en,Your chair is small.
+449,यह रास्ता सीधा सिनेमा घर जाता है।,en,This way goes straight to the movie theater.
+450,"उसका कमरा साफ़ है, पर रीना का कमरा गंदा है।",en,"His room is clean, but Reena’s is dirty."
+451,"वह आदमी मूर्ख नहीं, चालाक है।",en,"That man is not stupid, he is clever."
+452,क्या यह चीज़ असली है या नकली?,en,Is this thing real or fake?
+453,मद्रास में आज मौसम कैसा है?,en,How is the weather in Madras today?
+454,गर्म है।,en,It is hot.
+455,आपकी माताजी कैसी हैं?,en,How is your mother?
+456,वे ठीक हैं।,en,She is fine.
+457,आप कैसे हैं?,en,How are you?
+458,मैं अच्छा हूँ।,en,I am well.
+459,सुनील रमन से चालाक है।,en,Sunil is cleverer than Raman.
+460,सुनील रमन से ज़्यादा ईमानदार है।,en,Sunil is more honest than Raman.
+461,वह आम आदमी से कम ताकतवर है।,en,He is less powerful than an ordinary man.
+462,राम श्याम से थोड़ा पतला है।,en,Ram is a little slimmer than Shyam.
+463,क्या वह सबसे तेज़ है?,en,Is he the fastest?
+464,मेरा कमरा सबसे साफ़ है।,en,My room is the cleanest.
+465,यह बेहतर है।,en,This is better.
+466,उनका घर काफ़ी अच्छा है।,en,Their house is quite nice.
+467,वह मुझसे लंबा है।,en,He is taller than me.
+468,तुम उससे ज़्यादा ईमानदार हो।,en,You are more honest than him.
+469,फूल इस फूलदान में डालते हैं।,en,Flowers are put in this vase.
+470,क्या वे लोग इनसे ज़्यादा अच्छे हैं?,en,Are those people better than these?
+471,यह औरत उस औरत से कम चुस्त है।,en,This woman is less active than that woman.
+472,क्या आपको दिल्ली पसंद है?,en,Do you like Delhi?
+473,राकेश को यह लड़की पसंद नहीं।,en,Rakesh doesn’t like this girl.
+474,तुझे बाग में सैर करना पसंद है।,en,You like to stroll in the garden.
+475,उसे हमारा काम अच्छा लगता है।,en,He/She likes our work.
+476,इस लड़की को राकेश अच्छा नहीं लगता।,en,This girl doesn’t like Rakesh.
+477,तुम्हें गाड़ी चलाना अच्छा लगता है?,en,Do you like to drive?
+478,मैं गौरव को चाहती हूँ।,en,I like Gaurav.
+479,वह समोसा खाना चाहता है।,en,He wants to eat a samosa.
+480,मैं बाज़ार जाना नहीं चाहती।,en,I don’t want to go to the market.
+481,मुझे नई गाड़ी चाहिए।,en,I need a new car.
+482,इसे घर आना चाहिए।,en,He/She should come home.
+483,इन्हें रविवार को काम नहीं करना चाहिए।,en,They should not work on Sunday.
+484,मुझे भूख लगी है।,en,I am hungry.
+485,मुझे प्यास लगी है।,en,I am thirsty.
+486,मुझे दही खट्टा लगता है।,en,I find yogurt sour.
+487,मुझे करेला कड़वा लगता है।,en,I find bitter gourd bitter.
+488,मुझे केला मीठा लगता है।,en,I find banana sweet.
+489,मुझे आम पापड़ खट्टा-मीठा लगता है।,en,I find mango wafer sweet and sour.
+490,मुझे समोसा नमकीन लगता है।,en,I find puff pastry salty.
+491,मुझे फल ताज़ा लगता है।,en,I find fruit fresh.
+492,मुझे परसों का मक्खन बासी लगता है।,en,I find old butter stale.
+493,मुझे रसगुल्ला नरम लगता है।,en,I find rasgulla soft.
+494,मुझे कटहल सख़्त लगता है।,en,I find jackfruit hard.
+495,मुझे चना मसाला मसालेदार लगता है।,en,I find chickpeas spicy.
+496,मुझे पानी फीका लगता है।,en,I find water bland.
+497,सोनल का चाचा,en,Sonal’s uncle
+498,यशु की किताब,en,Yashu’s book
+499,दीपक का मेज़,en,Deepak’s table
+500,प्रशांत का लैपटॉप,en,Prashant’s laptop
+501,நா உனைவிட உயரமானவன்,hi,मैं तुम से लम्बा हूँ
+502,நா உனைவிட உயரமானவள்,hi,मैं तुम से लम्बी हूँ
+503,அருண் பிரியாவை விட உயரமானவன்,hi,"अरुण, प्रिया से छोटा है"
+504,பிரியா அருணை விடஉயரமானவள்,hi,"प्रिया, अरुण से छोटी है"
+505,இது அதைவிட நீளமானது,hi,यह उससे लंबा है
+506,அது இதைவிட நீளமானது,hi,यह इससे लंबा है
+507,அருணின் கார்,hi,अण की कार
+508,பிரியாவின் கார்,hi,प्रिया की कार
+509,பிரியாவின் போன்,hi,प्रिया का फोन
+510,பிரியாவின் போன்கள்,hi,प्रिया के फोन
+511,அருணின் புத்தகம்,hi,अण की किताब
+512,அருணின் புத்தகங்கள்,hi,अण की पुस्तकें
+513,அருணின் மகன்,hi,अण का बेटा
+514,பிரியாவின் மகன்,hi,प्रिया का बेटा
+515,அருணின் மகள்,hi,अण की बेटी
+516,பிரியாவின் மகள்,hi,प्रिया की बेटी
+517,பிரியாவின் மகன்கள்,hi,प्रिया के बेटे
+518,பிரியாவின் மகள்கள்,hi,प्रिया की बेटियाँ
+519,தயவு செய்து உதவுவீர்களா?,hi,क्या आप मेरी मदद करेंगे?
+520,தயவு செய்து பங்கா ஆப் பண்ணுவீர்களா?,hi,क्या आप पंखा बंद कर देंगे?
+521,இப்போது என்ன சாப்பிட விரும்புகிறீர்கள்?,hi,अब आप क्या लेना पसंद करेंगे?
+522,நான் ஒரு கப் காபி சாப்பிட விரும்புகிறேன்,hi,मैं एक कप कॉफी चाहूँगी
+523,வரவேற்பு,hi,स्वागत है
+524,வணக்கம்,hi,नमस्ते / नमस्कार
+525,வணக்கம்,hi,हेलो
+526,எப்படி இருக்கிறீர்கள்?,hi,आप कैसे हैं?
+527,எப்படி இருக்கிறாய்?,hi,तुम कैसे हो?
+528,நான் நன்றாக இருக்கிறேன்,hi,मैं अच्छा हूँ / मैं अच्छी हूँ
+529,நெடுநாளாக பார்க்கவில்லை,hi,बहुत समय से दिखे नहीं
+530,உங்கள் பெயர் என்ன?,hi,आपका नाम क्या है?
+531,என் பெயர் ...,hi,मेरा नाम ... है
+532,நீங்கள் எங்கிருந்து வருகிறீர்கள்?,hi,आप कहाँ से हैं?
+533,நான் ... இருந்து வருகிறேன்,hi,मैं ... से हूँ
+534,உங்களை சந்தித்ததில் மகிழ்ச்சி,hi,आप से मिलकर खुशी हुई
+535,காலை வணக்கம்,hi,शुभ प्रभात
+536,மதிய வணக்கம்,hi,नमस्ते / शुभ दोपहर
+537,மாலை வணக்கம்,hi,शुभ संध्या
+538,இனிய இரவு,hi,शुभ रात्रि
+539,விடை பெறுகிறேன்,hi,फिर मिलेंगे
+540,நல்வாழ்த்துக்கள்,hi,शुभकामनाएँ
+541,இனிய நாளாக அமையட்டும்,hi,आपका दिन अच्छा बीते
+542,உணவை ரசித்து உண்க,hi,कृपया भोजन शुरू कीजिए
+543,இனிய பயணமாக அமையட்டும்,hi,शुभ यात्रा
+544,எனக்கு தெரியாது,hi,मुझे नहीं पता
+545,உங்களுக்கு புரிகிறதா?,hi,क्या आप समझे?
+546,நான் புரிந்து கொண்டேன்,hi,मैं समझ गया / गयी
+547,எனக்கு புரியவில்லை,hi,मैं समझा / समझी नहीं
+548,தயவு செய்து மெதுவாக பேசுங்கள்,hi,कृपया धीरे बोलिए
+549,நீங்கள் அதை மீண்டும் சொல்ல முடியுமா?,hi,कृपया इसे दोहराएँ
+550,தயவு செய்து எழுதுங்கள்,hi,कृपया लिखिए
+551,நீங்கள் ஆங்கிலம் பேசுவீர்களா?,hi,क्या आप अंग्रेज़ी बोलते हैं?
+552,நீங்கள் हिन्दी பேசுவீர்களா?,hi,क्या आप हिन्दी बोलते हैं?
+553,"ஆம், கொஞ்சம்",hi,"हाँ, थोड़ी सी"
+554,மன்னிக்கவும்,hi,माफ कीजिए
+555,நன்றி,hi,धन्यवाद
+556,கழிப்பறை எங்கே?,hi,टॉयलेट कहाँ है?
+557,உதவி!,hi,मदद!
+558,தீ!,hi,आग!
+559,நிறுத்து!,hi,रुकिए!
+560,காவல்துறையினரை அழைக்கவும்!,hi,पुलिस को बुलाओ!
+561,பிறந்தநாள் வாழ்த்துக்கள்,hi,जन्मदिन मुबारक हो
+562,புத்தாண்டு வாழ்த்துக்கள்,hi,नये साल की शुभकामनाएँ
+563,ஈஸ்டர் வாழ்த்துக்கள்,hi,ईस्टर की शुभकामनाएँ
+564,வாழ்த்துக்கள்!,hi,बधाई!
+565,தண்ணீரை சேமிக்கவும்,hi,पानी बचाओ
+566,स्वागत है,ta,வரவேற்பு
+567,नमस्ते / नमस्कार,ta,வணக்கம்
+568,हेलो,ta,வணக்கம்
+569,आप कैसे हैं?,ta,எப்படி இருக்கிறீர்கள்?
+570,तुम कैसे हो?,ta,எப்படி இருக்கிறாய்?
+571,मैं अच्छा हूँ / मैं अच्छी हूँ,ta,நான் நன்றாக இருக்கிறேன்
+572,बहुत समय से दिखे नहीं,ta,நெடுநாளாக பார்க்கவில்லை
+573,आपका नाम क्या है?,ta,உங்கள் பெயர் என்ன?
+574,मेरा नाम ... है,ta,என் பெயர் ...
+575,आप कहाँ से हैं?,ta,நீங்கள் எங்கிருந்து வருகிறீர்கள்?
+576,मैं ... से हूँ,ta,நான் ... இருந்து வருகிறேன்
+577,आप से मिलकर खुशी हुई,ta,உங்களை சந்தித்ததில் மகிழ்ச்சி
+578,शुभ प्रभात,ta,காலை வணக்கம்
+579,नमस्ते / शुभ दोपहर,ta,மதிய வணக்கம்
+580,शुभ संध्या,ta,மாலை வணக்கம்
+581,शुभ रात्रि,ta,இனிய இரவு
+582,फिर मिलेंगे,ta,விடை பெறுகிறேன்
+583,शुभकामनाएँ,ta,நல்வாழ்த்துக்கள்
+584,आपका दिन अच्छा बीते,ta,இனிய நாளாக அமையட்டும்
+585,कृपया भोजन शुरू कीजिए,ta,உணவை ரசித்து உண்க
+586,शुभ यात्रा,ta,இனிய பயணமாக அமையட்டும்
+587,मुझे नहीं पता,ta,எனக்கு தெரியாது
+588,क्या आप समझे?,ta,உங்களுக்கு புரிகிறதா?
+589,मैं समझ गया / गयी,ta,நான் புரிந்து கொண்டேன்
+590,मैं समझा / समझी नहीं,ta,எனக்கு புரியவில்லை
+591,कृपया धीरे बोलिए,ta,தயவு செய்து மெதுவாக பேசுங்கள்
+592,कृपया इसे दोहराएँ,ta,நீங்கள் அதை மீண்டும் சொல்ல முடியுமா?
+593,कृपया लिखिए,ta,தயவு செய்து எழுதுங்கள்
+594,क्या आप अंग्रेज़ी बोलते हैं?,ta,நீங்கள் ஆங்கிலம் பேசுவீர்களா?
+595,क्या आप हिन्दी बोलते हैं?,ta,நீங்கள் हिन्दी பேசுவீர்களா?
+596,"हाँ, थोड़ी सी",ta,"ஆம், கொஞ்சம்"
+597,माफ कीजिए,ta,மன்னிக்கவும்
+598,धन्यवाद,ta,நன்றி
+599,टॉयलेट कहाँ है?,ta,கழிப்பறை எங்கே?
+600,मदद!,ta,உதவி!
+601,आग!,ta,தீ!
+602,रुकिए!,ta,நிறுத்து!
+603,पुलिस को बुलाओ!,ta,காவல்துறையினரை அழைக்கவும்!
+604,जन्मदिन मुबारक हो,ta,பிறந்தநாள் வாழ்த்துக்கள்
+605,नये साल की शुभकामनाएँ,ta,புத்தாண்டு வாழ்த்துக்கள்
+606,ईस्टर की शुभकामनाएँ,ta,ஈஸ்டர் வாழ்த்துக்கள்
+607,बधाई!,ta,வாழ்த்துக்கள்!
+608,पानी बचाओ,ta,தண்ணீரை சேமிக்கவும்
+609,मैं तुम से लम्बा हूँ,ta,நா உனைவிட உயரமானவன்
+610,मैं तुम से लम्बी हूँ,ta,நா உனைவிட உயரமானவள்
+611,"अरुण, प्रिया से छोटा है",ta,அருண் பிரியாவை விட உயரமானவன்
+612,"प्रिया, अरुण से छोटी है",ta,பிரியா அருணை விடஉயரமானவள்
+613,यह उससे लंबा है,ta,இது அதைவிட நீளமானது
+614,यह इससे लंबा है,ta,அது இதைவிட நீளமானது
+615,अण की कार,ta,அருணின் கார்
+616,प्रिया की कार,ta,பிரியாவின் கார்
+617,प्रिया का फोन,ta,பிரியாவின் போன்
+618,प्रिया के फोन,ta,பிரியாவின் போன்கள்
+619,अण की किताब,ta,அருணின் புத்தகம்
+620,अण की पुस्तकें,ta,அருணின் புத்தகங்கள்
+621,अण का बेटा,ta,அருணின் மகன்
+622,प्रिया का बेटा,ta,பிரியாவின் மகன்
+623,अण की बेटी,ta,அருணின் மகள்
+624,प्रिया की बेटी,ta,பிரியாவின் மகள்
+625,प्रिया के बेटे,ta,பிரியாவின் மகன்கள்
+626,प्रिया की बेटियाँ,ta,பிரியாவின் மகள்கள்
+627,क्या आप मेरी मदद करेंगे?,ta,தயவு செய்து உதவுவீர்களா?
+628,क्या आप पंखा बंद कर देंगे?,ta,தயவு செய்து பங்கா ஆப் பண்ணுவீர்களா?
+629,अब आप क्या लेना पसंद करेंगे?,ta,இப்போது என்ன சாப்பிட விரும்புகிறீர்கள்?
+630,मैं एक कप कॉफी चाहूँगी,ta,நான் ஒரு கப் காபி சாப்பிட விரும்புகிறேன்
+631,स्वागत है,ta,வரவேற்பு
+632,नमस्ते / नमस्कार,ta,வணக்கம்
+633,हेलो,ta,வணக்கம்
+634,आप कैसे हैं?,ta,எப்படி இருக்கிறீர்கள்?
+635,तुम कैसे हो?,ta,எப்படி இருக்கிறாய்?
+636,मैं अच्छा हूँ / मैं अच्छी हूँ,ta,நான் நன்றாக இருக்கிறேன்
+637,बहुत समय से दिखे नहीं,ta,நெடுநாளாக பார்க்கவில்லை
+638,आपका नाम क्या है?,ta,உங்கள் பெயர் என்ன?
+639,मेरा नाम ... है,ta,என் பெயர் ...
+640,आप कहाँ से हैं?,ta,நீங்கள் எங்கிருந்து வருகிறீர்கள்?
+641,मैं ... से हूँ,ta,நான் ... இருந்து வருகிறேன்
+642,आप से मिलकर खुशी हुई,ta,உங்களை சந்தித்ததில் மகிழ்ச்சி
+643,शुभ प्रभात,ta,காலை வணக்கம்
+644,नमस्ते / शुभ दोपहर,ta,மதிய வணக்கம்
+645,शुभ संध्या,ta,மாலை வணக்கம்
+646,शुभ रात्रि,ta,இனிய இரவு
+647,फिर मिलेंगे,ta,விடை பெறுகிறேன்
+648,शुभकामनाएँ,ta,நல்வாழ்த்துக்கள்
+649,आपका दिन अच्छा बीते,ta,இனிய நாளாக அமையட்டும்
+650,कृपया भोजन शुरू कीजिए,ta,உணவை ரசித்து உண்க
+651,शुभ यात्रा,ta,இனிய பயணமாக அமையட்டும்
+652,मुझे नहीं पता,ta,எனக்கு தெரியாது
+653,क्या आप समझे?,ta,உங்களுக்கு புரிகிறதா?
+654,मैं समझ गया / गयी,ta,நான் புரிந்து கொண்டேன்
+655,मैं समझा / समझी नहीं,ta,எனக்கு புரியவில்லை
+656,कृपया धीरे बोलिए,ta,தயவு செய்து மெதுவாக பேசுங்கள்
+657,कृपया इसे दोहराएँ,ta,நீங்கள் அதை மீண்டும் சொல்ல முடியுமா?
+658,कृपया लिखिए,ta,தயவு செய்து எழுதுங்கள்
+659,क्या आप अंग्रेज़ी बोलते हैं?,ta,நீங்கள் ஆங்கிலம் பேசுவீர்களா?
+660,क्या आप हिन्दी बोलते हैं?,ta,நீங்கள் हिन्दी பேசுவீர்களா?
+661,"हाँ, थोड़ी सी",ta,"ஆம், கொஞ்சம்"
+662,माफ कीजिए,ta,மன்னிக்கவும்
+663,धन्यवाद,ta,நன்றி
+664,टॉयलेट कहाँ है?,ta,கழிப்பறை எங்கே?
+665,मदद!,ta,உதவி!
+666,आग!,ta,தீ!
+667,रुकिए!,ta,நிறுத்து!
+668,पुलिस को बुलाओ!,ta,காவல்துறையினரை அழைக்கவும்!
+669,जन्मदिन मुबारक हो,ta,பிறந்தநாள் வாழ்த்துக்கள்
+670,नये साल की शुभकामनाएँ,ta,புத்தாண்டு வாழ்த்துக்கள்
+671,ईस्टर की शुभकामनाएँ,ta,ஈஸ்டர் வாழ்த்துக்கள்
+672,बधाई!,ta,வாழ்த்துக்கள்!
+673,पानी बचाओ,ta,தண்ணீரை சேமிக்கவும்

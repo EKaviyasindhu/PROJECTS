@@ -1,0 +1,5 @@
+Tone	Domain	Best_Tool	Yes_Count	Avg_Accuracy(%)
+Neutral	General	OpenAI	55	52.86
+Short/Simple	Chat	OpenAI	0	26.41
+Short/Simple	General	OpenAI	6	41.32
+Slang/Code-Mixed	Chat	OpenAI	1	37.17

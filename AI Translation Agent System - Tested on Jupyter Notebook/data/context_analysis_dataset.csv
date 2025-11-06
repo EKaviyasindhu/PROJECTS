@@ -1,0 +1,674 @@
+id,input_text,target_language,human_translated_text,clean_text,detected_lang,moderation_status,emotion_label
+1,அழுமூஞ்சியாக இருக்காதே.,en,Don’t be a cry-baby. / Don’t be a fusspot.,அழுமூஞ்சியாக இருக்காதே.,ta,approved,anger
+2,சிணுங்குவதை நிறுத்து.,en,Stop whining. / Stop whimpering.,சிணுங்குவதை நிறுத்து.,ta,approved,anger
+3,நீ மிகவும் குறும்புக்காரி.,en,You are very naughty.,நீ மிகவும் குறும்புக்காரி.,ta,approved,anger
+4,இந்த பையன் மிகவும் தேட்தடச் சேயவன்.,en,This boy is very mischievous; troublesome.,இந்த பையன் மிகவும் தேட்தடச் சேயவன்.,ta,approved,joy
+5,ஒழுங்கா இரு.,en,Behave yourself. / Keep quiet.,ஒழுங்கா இரு.,ta,approved,anger
+6,அவள் ஒரு சகட்டிக்காரி.,en,"She is smart, bright and intelligent.",அவள் ஒரு சகட்டிக்காரி.,ta,approved,joy
+7,அவள் சரம் வாயாடி.,en,She yaps a lot. / She is a chatterbox. / Talkative. Doesn’t stop talking.,அவள் சரம் வாயாடி.,ta,approved,joy
+8,அவள் பிடிவாதமானவள்.,en,Stubborn; adamant.,அவள் பிடிவாதமானவள்.,ta,approved,joy
+9,அவள் காபி தரையில் சிந்திவிட்டாள்.,en,She spilled coffee on the floor. / She messed up the place.,அவள் காபி தரையில் சிந்திவிட்டாள்.,ta,approved,joy
+10,எல்லாவற்றையும் நீ தான் செய்யணும். நீ வளர்ந்துவிட்டாய்.,en,Help yourself. (Do it yourself.) You’ve grown up.,எல்லாவற்றையும் நீ தான் செய்யணும். நீ வளர்ந்துவிட்டாய்.,ta,approved,joy
+11,என்னை நம்பி இருக்காதே. என்னிடம் உதவி எதிர்பார்க்காதே.,en,Don’t depend on me. / Don’t bother me.,என்னை நம்பி இருக்காதே. என்னிடம் உதவி எதிர்பார்க்காதே.,ta,approved,joy
+12,எதிர்த்து பேசாதே. பெரியவர்களுக்கு எதிர்த்து பேசாதே.,en,Don’t answer back. / Don’t talk back. / Don’t retort.,எதிர்த்து பேசாதே. பெரியவர்களுக்கு எதிர்த்து பேசாதே.,ta,approved,anger
+13,நான் சொல்வதை கேள்.,en,Just listen to me. / Obey me.,நான் சொல்வதை கேள்.,ta,approved,anger
+14,சொடக்கு அடிக்காதே. அது ஒரு சகட்ட பழக்கம்.,en,Don’t crack your knuckles. / That’s a bad habit.,சொடக்கு அடிக்காதே. அது ஒரு சகட்ட பழக்கம்.,ta,approved,joy
+15,சரியான நேரத்தில் வரவும். சரியான நேரத்தில் இருங்கள்.,en,You should turn up on time. / Be punctual. / Reach the office on time. / Don’t be late.,சரியான நேரத்தில் வரவும். சரியான நேரத்தில் இருங்கள்.,ta,approved,joy
+16,என் மேலாளர் என் கோரிக்கையை நிராகரித்தார்.,en,My boss turned down my request.,என் மேலாளர் என் கோரிக்கையை நிராகரித்தார்.,ta,approved,joy
+17,என் மேலாளர் எனக்கு லீவு கொடுக்க மறுத்துவிட்டார்.,en,My boss refused to grant me leave. / He rejected my leave application.,என் மேலாளர் எனக்கு லீவு கொடுக்க மறுத்துவிட்டார்.,ta,approved,joy
+18,என் மேலாளருடன் எனக்கு இன்று நேரம் சரியில்லை.,en,I had a hard time with my boss today. / My boss was tough and rude with me.,என் மேலாளருடன் எனக்கு இன்று நேரம் சரியில்லை.,ta,approved,joy
+19,நான் என்ன செய்தாலும் அவர் குற்றம் கண்டுபிடிக்கிறார்.,en,He is finding fault with whatever I do.,நான் என்ன செய்தாலும் அவர் குற்றம் கண்டுபிடிக்கிறார்.,ta,approved,anger
+20,அவர் எப்போதும் என் தவறில் சின்ன சின்ன விஷயத்திற்கெல்லாம் குற்றம் கண்டுபிடிக்கிறார்.,en,My boss is always nit-picking in my work.,அவர் எப்போதும் என் தவறில் சின்ன சின்ன விஷயத்திற்கெல்லாம் குற்றம் கண்டுபிடிக்கிறார்.,ta,approved,joy
+21,என் மேலாளர் என்னை திட்டினார்.,en,My boss scolded me. / He rebuked me.,என் மேலாளர் என்னை திட்டினார்.,ta,approved,joy
+22,என் மேலாளர் மிகவும் கண்டிப்பானவர்.,en,I have a very strict boss.,என் மேலாளர் மிகவும் கண்டிப்பானவர்.,ta,approved,joy
+23,அவர் ஒருபோதும் சமாதானமாக இருப்பதில்லை.,en,He is never lenient.,அவர் ஒருபோதும் சமாதானமாக இருப்பதில்லை.,ta,approved,joy
+24,அலுவலகத்தில் கடினமான வேலை.,en,It is tough work at the office.,அலுவலகத்தில் கடினமான வேலை.,ta,approved,joy
+25,அலுவலகத்தில் அதிகமான வேலை.,en,Heavy work at the office.,அலுவலகத்தில் அதிகமான வேலை.,ta,approved,anger
+26,இதை எப்படி செய்வது என்று தெரியவில்லை.,en,I don’t know how to do this.,இதை எப்படி செய்வது என்று தெரியவில்லை.,ta,approved,anger
+27,இதை எப்படி செய்வது என்று தெரியாமல் திக்குமுக்காடிக் காண்டு இருக்கிறேன்.,en,I am at a loss to know how to do this.,இதை எப்படி செய்வது என்று தெரியாமல் திக்குமுக்காடிக் காண்டு இருக்கிறேன்.,ta,approved,joy
+28,நீங்கள் எனக்கு உதவ முடியுமா?,en,"Could you help me, if you don’t mind?",நீங்கள் எனக்கு உதவ முடியுமா?,ta,approved,anger
+29,தயவுசெய்து ஒரு உதவி செய்ய முடியுமா?,en,Would you mind lending me a helping hand?,தயவுசெய்து ஒரு உதவி செய்ய முடியுமா?,ta,approved,anger
+30,சாப்பாடு பரிமாறு,en,Serve food. (Don’t say: Keep the food) / (Second serving),சாப்பாடு பரிமாறு,ta,approved,joy
+31,ருசியான சாப்பாடு,en,Tasty food. / Yummy food. / Delicious; delectable; palatable.,ருசியான சாப்பாடு,ta,approved,joy
+32,நான் உணவை ரசித்து சாப்பிட்டேன்,en,I relished the food.,நான் உணவை ரசித்து சாப்பிட்டேன்,ta,approved,joy
+33,உணவின் முக்கியப் பகுதி,en,Main course.,உணவின் முக்கியப் பகுதி,ta,approved,joy
+34,விக்குது; விக்கல் எடுக்குது,en,I am hiccupping.,விக்குது விக்கல் எடுக்குது,ta,approved,joy
+35,பசி யித்வத கிள்ளுது,en,I am starved. / I am famished.,பசி யித்வத கிள்ளுது,ta,approved,joy
+36,பசிதய இல்வல,en,I am full. / I am not hungry. / My stomach is full.,பசிதய இல்வல,ta,approved,joy
+37,யித்வத புரட்டுது,en,Stomach churning. / My stomach is churning.,யித்வத புரட்டுது,ta,approved,joy
+38,யிறு கம்மமன்று இருக்குது,en,I feel full. (Due to indigestion).,யிறு கம்மமன்று இருக்குது,ta,approved,anger
+39,அவனுக்கு புத்திகூர்மை அதிகம்,en,He is sharp and intelligent. / He is brainy.,அவனுக்கு புத்திகூர்மை அதிகம்,ta,approved,anger
+40,அவனுக்கு புத்தி இல்ல. ஒரு மரமண் வட,en,He is dumb. / He is stupid. / Dull-headed. / Brainless fellow.,அவனுக்கு புத்தி இல்ல. ஒரு மரமண் வட,ta,approved,joy
+41,இந்த இடம் பிசு பிசு மைன்று இருக்கிறது,en,This place is sticky.,இந்த இடம் பிசு பிசு மைன்று இருக்கிறது,ta,approved,joy
+42,தவரவய ஈர துணிவய வைத்து சுத்தம் செய்,en,Mop the floor.,தவரவய ஈர துணிவய வைத்து சுத்தம் செய்,ta,approved,joy
+43,ஒட்டவட எடு,en,Remove the cobwebs.,ஒட்டவட எடு,ta,approved,anger
+44,அதில் தூசி தட்டிவிடு,en,Dust it.,அதில் தூசி தட்டிவிடு,ta,approved,joy
+45,பழக்கமாக,en,Usually. / Customarily.,பழக்கமாக,ta,approved,anger
+46,பழக்கத்துக்கு மாறாக,en,Unusually. / Contrary to the custom.,பழக்கத்துக்கு மாறாக,ta,approved,anger
+47,நருக்கு நர்,en,Direct. / One to one (conversation). / One on one (competition).,நருக்கு நர்,ta,approved,joy
+48,எப்படியும் சமாளிக்க டைண் டும்,en,Try to manage somehow. / Cope with it. / Grapple with it. / Manoeuvre.,எப்படியும் சமாளிக்க டைண் டும்,ta,approved,joy
+49,என் அத்தி பூத்தது போல வருகிறீர்கள்,en,You come here once in a blue moon. / You seldom come here. / You rarely come here. / You come here occasionally.,என் அத்தி பூத்தது போல வருகிறீர்கள்,ta,approved,joy
+50,இப்போமாதல்லாம் வியாபாரம் குறைந்துவிட்டது,en,The business is dull nowadays. / It has slackened. / It has slowed down.,இப்போமாதல்லாம் வியாபாரம் குறைந்துவிட்டது,ta,approved,joy
+51,நாம் செலவை குறைக்க டைண் டும்,en,We’ve got to cut down our expenses.,நாம் செலவை குறைக்க டைண் டும்,ta,approved,joy
+52,வியாயக்கட்டி யிற்வற கட்டி டசய்த்து வைத்த பணம்,en,It is hard-earned money. / (Saving for the rainy day).,வியாயக்கட்டி யிற்வற கட்டி டசய்த்து வைத்த பணம்,ta,approved,joy
+53,சின்ன விஷயத்தை ஊதி மபரிதாக்காதே,en,Don’t blow it out of proportion.,சின்ன விஷயத்தை ஊதி மபரிதாக்காதே,ta,approved,joy
+54,வகக்கு எட்டியது காய்க்கு எட்டவில்லை,en,Many a slip between the cup and the lip. (Missed opportunity).,வகக்கு எட்டியது காய்க்கு எட்டவில்லை,ta,approved,joy
+55,அது அப்படியே இருக்கட்டும்,en,Let it be. / Leave it as it is.,அது அப்படியே இருக்கட்டும்,ta,approved,anger
+56,சரி. விஷயத்துக்கு வரலாம்,en,OK. Let’s get down to business.,சரி. விஷயத்துக்கு வரலாம்,ta,approved,joy
+57,இது எல்லாவற்றிலும் நல்லது,en,This is by far the best.,இது எல்லாவற்றிலும் நல்லது,ta,approved,joy
+58,கண் ட கண் ட மபாருள்கள்,en,Random things.,கண் ட கண் ட மபாருள்கள்,ta,approved,joy
+59,சரி. இப்ப நாம் தொடங்கலாம்,en,OK. Here we go. / Let’s start. / Let’s get started.,சரி. இப்ப நாம் தொடங்கலாம்,ta,approved,joy
+60,மபரிய உபடதசம் பண் ணாதே,en,Don’t start your sermons. / Don’t sermonise.,மபரிய உபடதசம் பண் ணாதே,ta,approved,joy
+61,எனக்கு ஒரு டயாசவன தோன்றுகிறது,en,I have an idea. / I’ve hit upon a new idea.,எனக்கு ஒரு டயாசவன தோன்றுகிறது,ta,approved,joy
+62,மீண் டும் மீண் டும்,en,Time and again. / Again and again. / Repeatedly.,மீண் டும் மீண் டும்,ta,approved,joy
+63,இதுதான் வாழ்க்கையில் எல்லாம் என்று எண்ணிவிடாதே,en,This is not the be all and end all in life.,இதுதான் வாழ்க்கையில் எல்லாம் என்று எண்ணிவிடாதே,ta,approved,anger
+64,,en,,,unknown,approved,unknown
+65,சரி,en,Alright. OK,சரி,ta,approved,joy
+66,நீங்கள் தயாரா?,en,Are you ready?,நீங்கள் தயாரா?,ta,approved,anger
+67,உங்கள் இஷ்டம்,en,As you wish. As you like.,உங்கள் இஷ்டம்,ta,approved,anger
+68,கவனமாக இரு,en,Be careful.,கவனமாக இரு,ta,approved,joy
+69,சரியான நேரத்தில் இருங்கள்,en,Be punctual.,சரியான நேரத்தில் இருங்கள்,ta,approved,joy
+70,தயாராக இருங்கள்,en,Be ready.,தயாராக இருங்கள்,ta,approved,joy
+71,ஜாக்கிரதை (நாய்கள் ஜாக்கிரதை),en,Beware of dogs.,ஜாக்கிரதை நாய்கள் ஜாக்கிரதை,ta,approved,joy
+72,சீக்கிரம் வா,en,Come back soon.,சீக்கிரம் வா,ta,approved,joy
+73,முடிந்தது என்று கருதுங்கள்,en,Consider this as done.,முடிந்தது என்று கருதுங்கள்,ta,approved,joy
+74,தாமதிக்க வேண்டாம்,en,Don’t be late.,தாமதிக்க வேண்டாம்,ta,approved,joy
+75,பயப்பட வேண்டாம்,en,Don’t be scared.,பயப்பட வேண்டாம்,ta,approved,joy
+76,முட்டாள்தனமாக இருக்க வேண்டாம்,en,Don’t be silly.,முட்டாள்தனமாக இருக்க வேண்டாம்,ta,approved,joy
+77,பணம் கடன் வாங்க வேண்டாம்,en,Don’t borrow money.,பணம் கடன் வாங்க வேண்டாம்,ta,approved,anger
+78,கிரெடிட்டில் வாங்க வேண்டாம்,en,Don’t buy on credit.,கிரெடிட்டில் வாங்க வேண்டாம்,ta,approved,anger
+79,கோபப்பட வேண்டாம்,en,Don’t be angry.,கோபப்பட வேண்டாம்,ta,approved,joy
+80,என்னை தவறாக நினைக்க வேண்டாம்,en,Don’t get me wrong.,என்னை தவறாக நினைக்க வேண்டாம்,ta,approved,joy
+81,தயங்க வேண்டாம்,en,Don’t hesitate. Be frank.,தயங்க வேண்டாம்,ta,approved,anger
+82,முட்டாள்தனமாக பேச வேண்டாம்,en,Don’t talk nonsense.,முட்டாள்தனமாக பேச வேண்டாம்,ta,approved,joy
+83,திரை திற,en,Draw the curtain.,திரை திற,ta,approved,joy
+84,என்னை மன்னித்துவிடு,en,Forgive me.,என்னை மன்னித்துவிடு,ta,approved,joy
+85,ரதாதலந்து போ,en,Get lost.,ரதாதலந்து போ,ta,approved,joy
+86,திரும்பிச் செல்,en,Go back.,திரும்பிச் செல்,ta,approved,joy
+87,ஒழிஞ்சு போ,en,Go to hell.,ஒழிஞ்சு போ,ta,approved,joy
+88,நீ உன்னை நம்பு,en,Have faith in yourself.,நீ உன்னை நம்பு,ta,approved,joy
+89,அவர் என் சிறந்த நண்பர்,en,He is my best friend.,அவர் என் சிறந்த நண்பர்,ta,approved,anger
+90,அவர் வீட்டில் இல்லை,en,He is not home.,அவர் வீட்டில் இல்லை,ta,approved,joy
+91,அவர் கறுப்பானவர்,en,His complexion is dark.,அவர் கறுப்பானவர்,ta,approved,anger
+92,உன் நாக்கை அடக்கு,en,Hold your tongue. Mind your words.,உன் நாக்கை அடக்கு,ta,approved,joy
+93,எப்படி இது?,en,How come?,எப்படி இது?,ta,approved,anger
+94,அதைச் சொல்ல உனக்கு எவ்வளவு தைரியம்?,en,How dare you say that?,அதைச் சொல்ல உனக்கு எவ்வளவு தைரியம்?,ta,approved,anger
+95,எவ்வளவு அருவருப்பானது,en,How disgusting.,எவ்வளவு அருவருப்பானது,ta,approved,anger
+96,எவ்வளவு அழகு,en,How lovely! How nice! So sweet!,எவ்வளவு அழகு,ta,approved,anger
+97,உங்கள் வயது என்ன? எனக்கு வயது 12.,en,How old are you? I just turned 12.,உங்கள் வயது என்ன? எனக்கு வயது 12.,ta,approved,joy
+98,சீக்கிரம்,en,Hurry up.,சீக்கிரம்,ta,approved,joy
+99,எனக்கு கொஞ்சம் பணம் வேண்டும்,en,I am in need of some money.,எனக்கு கொஞ்சம் பணம் வேண்டும்,ta,approved,anger
+100,நான் வந்துகொண்டு இருக்கிறேன்,en,I am just coming.,நான் வந்துகொண்டு இருக்கிறேன்,ta,approved,anger
+101,உன்னை பார்த்து பெருமைப்படுகிறேன்,en,I am proud of you.,உன்னை பார்த்து பெருமைப்படுகிறேன்,ta,approved,joy
+102,எனக்கு நேரம் இல்லை,en,I don’t have time.,எனக்கு நேரம் இல்லை,ta,approved,joy
+103,எனக்கு இது எப்படி செய்ய வேண்டும் என்று தெரியாது,en,I don’t know how to do this.,எனக்கு இது எப்படி செய்ய வேண்டும் என்று தெரியாது,ta,approved,anger
+104,நான் அப்படி நினைக்கவில்லை,en,I don’t think so.,நான் அப்படி நினைக்கவில்லை,ta,approved,joy
+105,என்னிடம் எதுவும் இல்லை,en,I don't have anything.,என்னிடம் எதுவும் இல்லை,ta,approved,anger
+106,எனக்கு காய்ச்சல் மற்றும் தொண்டை வலி உள்ளது,en,I have a fever and sore throat.,எனக்கு காய்ச்சல் மற்றும் தொண்டை வலி உள்ளது,ta,approved,joy
+107,எனக்கு எதுவும் தெரியாது,en,I have no idea.,எனக்கு எதுவும் தெரியாது,ta,approved,anger
+108,எனக்கு நேரமில்லை,en,I have no time.,எனக்கு நேரமில்லை,ta,approved,joy
+109,நான் அதைப் பற்றி சிந்திக்க வேண்டும்,en,I have to think about it.,நான் அதைப் பற்றி சிந்திக்க வேண்டும்,ta,approved,joy
+110,நான் உன்னை மிஸ் செய்தேன்,en,I missed you very much.,நான் உன்னை மிஸ் செய்தேன்,ta,approved,joy
+111,நான் முடிந்தவரை முயற்சிப்பேன்,en,I will try my best.,நான் முடிந்தவரை முயற்சிப்பேன்,ta,approved,joy
+112,அப்படியா?,en,Is it?,அப்படியா?,ta,approved,anger
+113,பத்து நாற்கால் மணி,en,It’s quarter past 10.,பத்து நாற்கால் மணி,ta,approved,joy
+114,வரிசையை முந்தாதே,en,Don’t jump the queue.,வரிசையை முந்தாதே,ta,approved,joy
+115,என்னை தனியாக இருக்க விடு,en,Leave me alone.,என்னை தனியாக இருக்க விடு,ta,approved,joy
+116,அது இருக்கட்டும்,en,Let it be.,அது இருக்கட்டும்,ta,approved,anger
+117,நான் பார்க்கிறேன்,en,Let me see.,நான் பார்க்கிறேன்,ta,approved,anger
+118,நான் சொல்வதை கேள்,en,Listen to me.,நான் சொல்வதை கேள்,ta,approved,joy
+119,இரண்டு நாட்களாக பார்க்கவில்லை,en,Long-time no see.,இரண்டு நாட்களாக பார்க்கவில்லை,ta,approved,joy
+120,இன்றைய நாள் மகிழ்ச்சியானதாக இருக்கட்டும்,en,Many happy returns of the day!,இன்றைய நாள் மகிழ்ச்சியானதாக இருக்கட்டும்,ta,approved,joy
+121,கடவுள் உன்னை ஆசீர்வதிப்பாராக,en,May God bless you!,கடவுள் உன்னை ஆசீர்வதிப்பாராக,ta,approved,joy
+122,நான் உங்களுக்கு உதவலாமா?,en,May I help you?,நான் உங்களுக்கு உதவலாமா?,ta,approved,anger
+123,நீ உன் வேலையைப் பார்,en,Mind your own business.,நீ உன் வேலையைப் பார்,ta,approved,joy
+124,தயவுசெய்து ஒதுங்குங்கள்,en,"Move aside, please.",தயவுசெய்து ஒதுங்குங்கள்,ta,approved,anger
+125,அதைப் பற்றி கவலைப்படாதே,en,Never mind.,அதைப் பற்றி கவலைப்படாதே,ta,approved,joy
+126,"இல்லை, ஒன்றுமில்லை",en,"No, Not at all.","இல்லை, ஒன்றுமில்லை",ta,approved,anger
+127,சிறப்பாக எதுவும் இல்லை,en,Nothing special.,சிறப்பாக எதுவும் இல்லை,ta,approved,anger
+128,நிச்சயமாக,en,Of course.,நிச்சயமாக,ta,approved,joy
+129,நம்பிக்கையாக இரு,en,Rest assured.,நம்பிக்கையாக இரு,ta,approved,joy
+130,மீண்டும் சந்திப்போம்,en,See you again. See you later.,மீண்டும் சந்திப்போம்,ta,approved,joy
+131,நாம் தொடங்கலாமா?,en,Shall we start?,நாம் தொடங்கலாமா?,ta,approved,anger
+132,சிரமத்திற்கு மன்னிக்கவும்,en,Sorry for the inconvenience.,சிரமத்திற்கு மன்னிக்கவும்,ta,approved,joy
+133,என்ன நினைக்கிறீர்கள் அதைச் சொல்லுங்கள்,en,Speak your mind.,என்ன நினைக்கிறீர்கள் அதைச் சொல்லுங்கள்,ta,approved,anger
+134,விளக்கை அணைக்கவும்,en,Switch off the light.,விளக்கை அணைக்கவும்,ta,approved,joy
+135,விளக்கை போடவும்,en,Switch on the light.,விளக்கை போடவும்,ta,approved,joy
+136,பேசுவதற்கு முன் இரண்டு முறை சிந்தியுங்கள்,en,Think twice before you speak.,பேசுவதற்கு முன் இரண்டு முறை சிந்தியுங்கள்,ta,approved,joy
+137,இப்படி நல்லது தொடரட்டும்,en,Touch wood.,இப்படி நல்லது தொடரட்டும்,ta,approved,joy
+138,புரிந்துகொள்ள முயற்சி செய்,en,Try to understand.,புரிந்துகொள்ள முயற்சி செய்,ta,approved,anger
+139,அடுத்த முறை அதிர்ஷ்டத்தை முயற்சி செய்,en,Try your luck next time.,அடுத்த முறை அதிர்ஷ்டத்தை முயற்சி செய்,ta,approved,anger
+140,உன் மூளைப் பயன்படுத்து,en,Use your brain.,உன் மூளைப் பயன்படுத்து,ta,approved,joy
+141,இடத்தை காலி செய்,en,Vacate this place.,இடத்தை காலி செய்,ta,approved,joy
+142,ஒரு நிமிடம் காத்திரு,en,Wait a minute.,ஒரு நிமிடம் காத்திரு,ta,approved,joy
+143,"கவனியுங்கள், இந்த இடம் வழுக்கும்",en,Watch out. This place is slippery.,"கவனியுங்கள், இந்த இடம் வழுக்கும்",ta,approved,anger
+144,என்ன ஒரு பரிதாபம்,en,What a pity!,என்ன ஒரு பரிதாபம்,ta,approved,joy
+145,என்ன ஒரு அவமானம்,en,What a shame!,என்ன ஒரு அவமானம்,ta,approved,anger
+146,என்ன ஒரு யோசனை,en,What an idea!,என்ன ஒரு யோசனை,ta,approved,joy
+147,என்னால் என்ன செய்ய முடியும்,en,What can I do?,என்னால் என்ன செய்ய முடியும்,ta,approved,joy
+148,நீங்கள் என்ன சொல்கிறீர்கள்?,en,What do you mean?,நீங்கள் என்ன சொல்கிறீர்கள்?,ta,approved,anger
+149,என்ன முட்டாள்தனம்,en,What nonsense?,என்ன முட்டாள்தனம்,ta,approved,joy
+150,இன்றைய நாள் என்ன?,en,What’s the day today?,இன்றைய நாள் என்ன?,ta,approved,anger
+151,நேரம் என்ன?,en,What’s the time?,நேரம் என்ன?,ta,approved,anger
+152,யார் கவலைப்படுகிறார்கள்?,en,Who cares?,யார் கவலைப்படுகிறார்கள்?,ta,approved,anger
+153,யார் அங்கே?,en,Who is there?,யார் அங்கே?,ta,approved,anger
+154,இது யார்? இது நான்,en,Who is this? It’s me.,இது யார்? இது நான்,ta,approved,joy
+155,யாருக்கு தெரியும்?,en,Who knows?,யாருக்கு தெரியும்?,ta,approved,anger
+156,கொஞ்சம் தேநீர் வேண்டுமா?,en,Would you like some tea?,கொஞ்சம் தேநீர் வேண்டுமா?,ta,approved,anger
+157,நீங்கள் தவறாக நினைக்கிறீர்கள்,en,You are mistaken. You are making a mistake.,நீங்கள் தவறாக நினைக்கிறீர்கள்,ta,approved,anger
+158,நீ நகைச்சுவை செய்கிறாய்,en,You must be joking. You must be kidding.,நீ நகைச்சுவை செய்கிறாய்,ta,approved,joy
+159,இந்த பொருளுக்கு அதிக தேவை உள்ளது,en,There is a great demand for this item.,இந்த பொருளுக்கு அதிக தேவை உள்ளது,ta,approved,joy
+160,தளபாடங்கள் இங்கே மலிவானவை,en,Furniture is quite cheap here.,தளபாடங்கள் இங்கே மலிவானவை,ta,approved,joy
+161,கண்ணாடி உடையக்கூடியது,en,Glass is fragile. Handle with care.,கண்ணாடி உடையக்கூடியது,ta,approved,anger
+162,அவர் மிகவும் கூர்மையானவர்,en,He is quite sharp; understands easily.,அவர் மிகவும் கூர்மையானவர்,ta,approved,joy
+163,இந்த பெண் மிகவும் படிப்பாளி,en,This girl is quite studious.,இந்த பெண் மிகவும் படிப்பாளி,ta,approved,joy
+164,இந்த தளபாடங்கள் மிகவும் உறுதியானவை,en,This furniture is quite sturdy.,இந்த தளபாடங்கள் மிகவும் உறுதியானவை,ta,approved,joy
+165,அவர் ஒரு கஞ்சன்,en,He is a miser. Doesn’t spend even for essentials.,அவர் ஒரு கஞ்சன்,ta,approved,anger
+166,human_translated_text,ta,இதை எப்படி செய்வது என்று தெரியாமல் திக்குமுக்காடிக் காண்டு இருக்கிறேன்.,humantranslatedtext,en,approved,joy
+167,Don’t be a cry-baby. / Don’t be a fusspot.,ta,நீங்கள் எனக்கு உதவ முடியுமா?,Dont be a crybaby. Dont be a fusspot.,en,approved,anger
+168,Stop whining. / Stop whimpering.,ta,தயவுசெய்து ஒரு உதவி செய்ய முடியுமா?,Stop whining. Stop whimpering.,en,approved,fear
+169,You are very naughty.,ta,சாப்பாடு பரிமாறு,You are very naughty.,en,approved,love
+170,This boy is very mischievous; troublesome.,ta,ருசியான சாப்பாடு,This boy is very mischievous troublesome.,en,approved,joy
+171,Behave yourself. / Keep quiet.,ta,நான் உணவை ரசித்து சாப்பிட்டேன்,Behave yourself. Keep quiet.,en,approved,joy
+172,"She is smart, bright and intelligent.",ta,உணவின் முக்கியப் பகுதி,"She is smart, bright and intelligent.",en,approved,joy
+173,She yaps a lot. / She is a chatterbox. / Talkative. Doesn’t stop talking.,ta,விக்குது; விக்கல் எடுக்குது,She yaps a lot. She is a chatterbox. Talkative. Doesnt stop talking.,en,approved,joy
+174,Stubborn; adamant.,ta,பசி யித்வத கிள்ளுது,Stubborn adamant.,id,approved,anger
+175,She spilled coffee on the floor. / She messed up the place.,ta,பசிதய இல்வல,She spilled coffee on the floor. She messed up the place.,en,approved,anger
+176,Help yourself. (Do it yourself.) You’ve grown up.,ta,யித்வத புரட்டுது,Help yourself. Do it yourself. Youve grown up.,en,approved,joy
+177,Don’t depend on me. / Don’t bother me.,ta,யிறு கம்மமன்று இருக்குது,Dont depend on me. Dont bother me.,nl,approved,anger
+178,Don’t answer back. / Don’t talk back. / Don’t retort.,ta,அவனுக்கு புத்திகூர்மை அதிகம்,Dont answer back. Dont talk back. Dont retort.,en,approved,anger
+179,Just listen to me. / Obey me.,ta,அவனுக்கு புத்தி இல்ல. ஒரு மரமண் வட,Just listen to me. Obey me.,en,approved,joy
+180,Don’t crack your knuckles. / That’s a bad habit.,ta,இந்த இடம் பிசு பிசு மைன்று இருக்கிறது,Dont crack your knuckles. Thats a bad habit.,en,approved,anger
+181,You should turn up on time. / Be punctual. / Reach the office on time. / Don’t be late.,ta,தவரவய ஈர துணிவய வைத்து சுத்தம் செய்,You should turn up on time. Be punctual. Reach the office on time. Dont be late.,en,approved,anger
+182,My boss turned down my request.,ta,ஒட்டவட எடு,My boss turned down my request.,en,approved,anger
+183,My boss refused to grant me leave. / He rejected my leave application.,ta,அதில் தூசி தட்டிவிடு,My boss refused to grant me leave. He rejected my leave application.,en,approved,anger
+184,I had a hard time with my boss today. / My boss was tough and rude with me.,ta,பழக்கமாக,I had a hard time with my boss today. My boss was tough and rude with me.,en,approved,anger
+185,He is finding fault with whatever I do.,ta,பழக்கத்துக்கு மாறாக,He is finding fault with whatever I do.,en,rejected,sadness
+186,My boss is always nit-picking in my work.,ta,நருக்கு நர்,My boss is always nitpicking in my work.,en,approved,anger
+187,My boss scolded me. / He rebuked me.,ta,எப்படியும் சமாளிக்க டைண் டும்,My boss scolded me. He rebuked me.,en,approved,anger
+188,I have a very strict boss.,ta,என் அத்தி பூத்தது போல வருகிறீர்கள்,I have a very strict boss.,en,approved,anger
+189,He is never lenient.,ta,இப்போமாதல்லாம் வியாபாரம் குறைந்துவிட்டது,He is never lenient.,nl,approved,anger
+190,It is tough work at the office.,ta,நாம் செலவை குறைக்க டைண் டும்,It is tough work at the office.,en,approved,anger
+191,Heavy work at the office.,ta,வியாயக்கட்டி யிற்வற கட்டி டசய்த்து வைத்த பணம்,Heavy work at the office.,en,approved,anger
+192,I don’t know how to do this.,ta,சின்ன விஷயத்தை ஊதி மபரிதாக்காதே,I dont know how to do this.,en,approved,fear
+193,I am at a loss to know how to do this.,ta,வகக்கு எட்டியது காய்க்கு எட்டவில்லை,I am at a loss to know how to do this.,en,approved,anger
+194,"Could you help me, if you don’t mind?",ta,அது அப்படியே இருக்கட்டும்,"Could you help me, if you dont mind?",en,approved,joy
+195,Would you mind lending me a helping hand?,ta,சரி. விஷயத்துக்கு வரலாம்,Would you mind lending me a helping hand?,en,approved,joy
+196,Serve food. (Don’t say: Keep the food) / (Second serving),ta,இது எல்லாவற்றிலும் நல்லது,Serve food. Dont say Keep the food Second serving,en,approved,joy
+197,Tasty food. / Yummy food. / Delicious; delectable; palatable.,ta,கண் ட கண் ட மபாருள்கள்,Tasty food. Yummy food. Delicious delectable palatable.,en,approved,joy
+198,I relished the food.,ta,சரி. இப்ப நாம் தொடங்கலாம்,I relished the food.,en,approved,love
+199,Main course.,ta,மபரிய உபடதசம் பண் ணாதே,Main course.,fr,approved,anger
+200,I am hiccupping.,ta,எனக்கு ஒரு டயாசவன தோன்றுகிறது,I am hiccupping.,en,approved,anger
+201,I am starved. / I am famished.,ta,மீண் டும் மீண் டும்,I am starved. I am famished.,en,approved,fear
+202,I am full. / I am not hungry. / My stomach is full.,ta,இதுதான் வாழ்க்கையில் எல்லாம் என்று எண்ணிவிடாதே,I am full. I am not hungry. My stomach is full.,en,approved,joy
+203,Stomach churning. / My stomach is churning.,ta,,Stomach churning. My stomach is churning.,en,approved,fear
+204,I feel full. (Due to indigestion).,ta,சரி,I feel full. Due to indigestion.,it,approved,joy
+205,He is sharp and intelligent. / He is brainy.,ta,நீங்கள் தயாரா?,He is sharp and intelligent. He is brainy.,en,approved,joy
+206,He is dumb. / He is stupid. / Dull-headed. / Brainless fellow.,ta,உங்கள் இஷ்டம்,He is dumb. He is stupid. Dullheaded. Brainless fellow.,en,approved,sadness
+207,This place is sticky.,ta,கவனமாக இரு,This place is sticky.,en,approved,anger
+208,Mop the floor.,ta,சரியான நேரத்தில் இருங்கள்,Mop the floor.,en,approved,anger
+209,Remove the cobwebs.,ta,தயாராக இருங்கள்,Remove the cobwebs.,en,approved,anger
+210,Dust it.,ta,ஜாக்கிரதை (நாய்கள் ஜாக்கிரதை),Dust it.,de,approved,anger
+211,Usually. / Customarily.,ta,சீக்கிரம் வா,Usually. Customarily.,en,approved,joy
+212,Unusually. / Contrary to the custom.,ta,முடிந்தது என்று கருதுங்கள்,Unusually. Contrary to the custom.,en,approved,anger
+213,Direct. / One to one (conversation). / One on one (competition).,ta,தாமதிக்க வேண்டாம்,Direct. One to one conversation. One on one competition.,en,approved,anger
+214,Try to manage somehow. / Cope with it. / Grapple with it. / Manoeuvre.,ta,பயப்பட வேண்டாம்,Try to manage somehow. Cope with it. Grapple with it. Manoeuvre.,en,approved,joy
+215,You come here once in a blue moon. / You seldom come here. / You rarely come here. / You come here occasionally.,ta,முட்டாள்தனமாக இருக்க வேண்டாம்,You come here once in a blue moon. You seldom come here. You rarely come here. You come here occasionally.,en,approved,anger
+216,The business is dull nowadays. / It has slackened. / It has slowed down.,ta,பணம் கடன் வாங்க வேண்டாம்,The business is dull nowadays. It has slackened. It has slowed down.,en,approved,sadness
+217,We’ve got to cut down our expenses.,ta,கிரெடிட்டில் வாங்க வேண்டாம்,Weve got to cut down our expenses.,en,approved,anger
+218,It is hard-earned money. / (Saving for the rainy day).,ta,கோபப்பட வேண்டாம்,It is hardearned money. Saving for the rainy day.,en,approved,sadness
+219,Don’t blow it out of proportion.,ta,என்னை தவறாக நினைக்க வேண்டாம்,Dont blow it out of proportion.,en,approved,anger
+220,Many a slip between the cup and the lip. (Missed opportunity).,ta,தயங்க வேண்டாம்,Many a slip between the cup and the lip. Missed opportunity.,en,approved,sadness
+221,Let it be. / Leave it as it is.,ta,முட்டாள்தனமாக பேச வேண்டாம்,Let it be. Leave it as it is.,en,approved,anger
+222,OK. Let’s get down to business.,ta,திரை திற,OK. Lets get down to business.,en,approved,joy
+223,This is by far the best.,ta,என்னை மன்னித்துவிடு,This is by far the best.,en,approved,joy
+224,Random things.,ta,ரதாதலந்து போ,Random things.,en,approved,joy
+225,OK. Here we go. / Let’s start. / Let’s get started.,ta,திரும்பிச் செல்,OK. Here we go. Lets start. Lets get started.,nl,approved,joy
+226,Don’t start your sermons. / Don’t sermonise.,ta,ஒழிஞ்சு போ,Dont start your sermons. Dont sermonise.,fr,approved,anger
+227,I have an idea. / I’ve hit upon a new idea.,ta,நீ உன்னை நம்பு,I have an idea. Ive hit upon a new idea.,en,approved,joy
+228,Time and again. / Again and again. / Repeatedly.,ta,அவர் என் சிறந்த நண்பர்,Time and again. Again and again. Repeatedly.,en,approved,anger
+229,This is not the be all and end all in life.,ta,அவர் வீட்டில் இல்லை,This is not the be all and end all in life.,en,approved,anger
+230,,ta,அவர் கறுப்பானவர்,,unknown,approved,unknown
+231,Alright. OK,ta,உன் நாக்கை அடக்கு,Alright. OK,en,approved,joy
+232,Are you ready?,ta,எப்படி இது?,Are you ready?,en,approved,joy
+233,As you wish. As you like.,ta,அதைச் சொல்ல உனக்கு எவ்வளவு தைரியம்?,As you wish. As you like.,sw,approved,joy
+234,Be careful.,ta,எவ்வளவு அருவருப்பானது,Be careful.,ro,approved,joy
+235,Be punctual.,ta,எவ்வளவு அழகு,Be punctual.,ro,approved,joy
+236,Be ready.,ta,உங்கள் வயது என்ன? எனக்கு வயது 12.,Be ready.,en,approved,joy
+237,Beware of dogs.,ta,சீக்கிரம்,Beware of dogs.,en,approved,anger
+238,Come back soon.,ta,எனக்கு கொஞ்சம் பணம் வேண்டும்,Come back soon.,en,approved,joy
+239,Consider this as done.,ta,நான் வந்துகொண்டு இருக்கிறேன்,Consider this as done.,en,approved,joy
+240,Don’t be late.,ta,உன்னை பார்த்து பெருமைப்படுகிறேன்,Dont be late.,fr,approved,anger
+241,Don’t be scared.,ta,எனக்கு நேரம் இல்லை,Dont be scared.,en,approved,fear
+242,Don’t be silly.,ta,எனக்கு இது எப்படி செய்ய வேண்டும் என்று தெரியாது,Dont be silly.,en,approved,anger
+243,Don’t borrow money.,ta,நான் அப்படி நினைக்கவில்லை,Dont borrow money.,en,approved,anger
+244,Don’t buy on credit.,ta,என்னிடம் எதுவும் இல்லை,Dont buy on credit.,en,approved,anger
+245,Don’t be angry.,ta,எனக்கு காய்ச்சல் மற்றும் தொண்டை வலி உள்ளது,Dont be angry.,en,approved,anger
+246,Don’t get me wrong.,ta,எனக்கு எதுவும் தெரியாது,Dont get me wrong.,nl,approved,anger
+247,Don’t hesitate. Be frank.,ta,எனக்கு நேரமில்லை,Dont hesitate. Be frank.,en,approved,joy
+248,Don’t talk nonsense.,ta,நான் அதைப் பற்றி சிந்திக்க வேண்டும்,Dont talk nonsense.,af,approved,anger
+249,Draw the curtain.,ta,நான் உன்னை மிஸ் செய்தேன்,Draw the curtain.,en,approved,anger
+250,Forgive me.,ta,நான் முடிந்தவரை முயற்சிப்பேன்,Forgive me.,da,approved,joy
+251,Get lost.,ta,அப்படியா?,Get lost.,fr,approved,sadness
+252,Go back.,ta,பத்து நாற்கால் மணி,Go back.,en,approved,joy
+253,Go to hell.,ta,வரிசையை முந்தாதே,Go to hell.,en,approved,anger
+254,Have faith in yourself.,ta,என்னை தனியாக இருக்க விடு,Have faith in yourself.,en,approved,joy
+255,He is my best friend.,ta,அது இருக்கட்டும்,He is my best friend.,en,approved,anger
+256,He is not home.,ta,நான் பார்க்கிறேன்,He is not home.,en,approved,anger
+257,His complexion is dark.,ta,நான் சொல்வதை கேள்,His complexion is dark.,en,approved,fear
+258,Hold your tongue. Mind your words.,ta,இரண்டு நாட்களாக பார்க்கவில்லை,Hold your tongue. Mind your words.,en,approved,joy
+259,How come?,ta,இன்றைய நாள் மகிழ்ச்சியானதாக இருக்கட்டும்,How come?,en,approved,joy
+260,How dare you say that?,ta,கடவுள் உன்னை ஆசீர்வதிப்பாராக,How dare you say that?,en,approved,anger
+261,How disgusting.,ta,நான் உங்களுக்கு உதவலாமா?,How disgusting.,en,approved,anger
+262,How lovely! How nice! So sweet!,ta,நீ உன் வேலையைப் பார்,How lovely! How nice! So sweet!,en,approved,love
+263,How old are you? I just turned 12.,ta,தயவுசெய்து ஒதுங்குங்கள்,How old are you? I just turned 12.,en,approved,fear
+264,Hurry up.,ta,அதைப் பற்றி கவலைப்படாதே,Hurry up.,en,approved,joy
+265,I am in need of some money.,ta,"இல்லை, ஒன்றுமில்லை",I am in need of some money.,en,approved,anger
+266,I am just coming.,ta,சிறப்பாக எதுவும் இல்லை,I am just coming.,en,approved,joy
+267,I am proud of you.,ta,நிச்சயமாக,I am proud of you.,en,approved,joy
+268,I don’t have time.,ta,நம்பிக்கையாக இரு,I dont have time.,sq,approved,sadness
+269,I don’t know how to do this.,ta,மீண்டும் சந்திப்போம்,I dont know how to do this.,en,approved,fear
+270,I don’t think so.,ta,நாம் தொடங்கலாமா?,I dont think so.,en,approved,joy
+271,I don't have anything.,ta,சிரமத்திற்கு மன்னிக்கவும்,I dont have anything.,en,approved,anger
+272,I have a fever and sore throat.,ta,என்ன நினைக்கிறீர்கள் அதைச் சொல்லுங்கள்,I have a fever and sore throat.,en,approved,sadness
+273,I have no idea.,ta,விளக்கை அணைக்கவும்,I have no idea.,pt,approved,fear
+274,I have no time.,ta,விளக்கை போடவும்,I have no time.,it,approved,anger
+275,I have to think about it.,ta,பேசுவதற்கு முன் இரண்டு முறை சிந்தியுங்கள்,I have to think about it.,en,approved,joy
+276,I missed you very much.,ta,இப்படி நல்லது தொடரட்டும்,I missed you very much.,en,approved,sadness
+277,I will try my best.,ta,புரிந்துகொள்ள முயற்சி செய்,I will try my best.,en,approved,joy
+278,Is it?,ta,அடுத்த முறை அதிர்ஷ்டத்தை முயற்சி செய்,Is it?,tl,approved,anger
+279,It’s quarter past 10.,ta,உன் மூளைப் பயன்படுத்து,Its quarter past 10.,fr,approved,joy
+280,Don’t jump the queue.,ta,இடத்தை காலி செய்,Dont jump the queue.,fr,approved,anger
+281,Leave me alone.,ta,ஒரு நிமிடம் காத்திரு,Leave me alone.,fr,approved,sadness
+282,Let it be.,ta,"கவனியுங்கள், இந்த இடம் வழுக்கும்",Let it be.,nl,approved,joy
+283,Let me see.,ta,என்ன ஒரு பரிதாபம்,Let me see.,af,approved,joy
+284,Listen to me.,ta,என்ன ஒரு அவமானம்,Listen to me.,nl,approved,anger
+285,Long-time no see.,ta,என்ன ஒரு யோசனை,Longtime no see.,it,approved,anger
+286,Many happy returns of the day!,ta,என்னால் என்ன செய்ய முடியும்,Many happy returns of the day!,en,approved,joy
+287,May God bless you!,ta,நீங்கள் என்ன சொல்கிறீர்கள்?,May God bless you!,en,approved,joy
+288,May I help you?,ta,என்ன முட்டாள்தனம்,May I help you?,en,approved,joy
+289,Mind your own business.,ta,இன்றைய நாள் என்ன?,Mind your own business.,en,approved,joy
+290,"Move aside, please.",ta,நேரம் என்ன?,"Move aside, please.",en,approved,anger
+291,Never mind.,ta,யார் கவலைப்படுகிறார்கள்?,Never mind.,da,approved,joy
+292,"No, Not at all.",ta,யார் அங்கே?,"No, Not at all.",en,approved,anger
+293,Nothing special.,ta,இது யார்? இது நான்,Nothing special.,en,approved,joy
+294,Of course.,ta,யாருக்கு தெரியும்?,Of course.,fr,approved,anger
+295,Rest assured.,ta,கொஞ்சம் தேநீர் வேண்டுமா?,Rest assured.,en,approved,joy
+296,See you again. See you later.,ta,நீங்கள் தவறாக நினைக்கிறீர்கள்,See you again. See you later.,id,approved,joy
+297,Shall we start?,ta,நீ நகைச்சுவை செய்கிறாய்,Shall we start?,en,approved,joy
+298,Sorry for the inconvenience.,ta,இந்த பொருளுக்கு அதிக தேவை உள்ளது,Sorry for the inconvenience.,en,approved,sadness
+299,Speak your mind.,ta,தளபாடங்கள் இங்கே மலிவானவை,Speak your mind.,tr,approved,joy
+300,Switch off the light.,ta,கண்ணாடி உடையக்கூடியது,Switch off the light.,en,approved,fear
+301,Switch on the light.,ta,அவர் மிகவும் கூர்மையானவர்,Switch on the light.,en,approved,fear
+302,Think twice before you speak.,ta,இந்த பெண் மிகவும் படிப்பாளி,Think twice before you speak.,en,approved,anger
+303,Touch wood.,ta,இந்த தளபாடங்கள் மிகவும் உறுதியானவை,Touch wood.,en,approved,love
+304,Try to understand.,ta,அவர் ஒரு கஞ்சன்,Try to understand.,en,approved,joy
+305,Are those people better than these?,hi,क्या वे लोग इनसे ज़्यादा अच्छे हैं?,Are those people better than these?,en,approved,joy
+306,This woman is less active than that woman.,hi,यह औरत उस औरत से कम चुस्त है।,This woman is less active than that woman.,en,approved,joy
+307,Do you like Delhi?,hi,क्या आपको दिल्ली पसंद है?,Do you like Delhi?,sw,approved,joy
+308,Rakesh doesn’t like this girl.,hi,राकेश को यह लड़की पसंद नहीं।,Rakesh doesnt like this girl.,en,approved,anger
+309,You like to stroll in the garden.,hi,तुझे बाग में सैर करना पसंद है।,You like to stroll in the garden.,en,approved,joy
+310,He/She likes our work.,hi,उसे हमारा काम अच्छा लगता है।,HeShe likes our work.,af,approved,love
+311,This girl doesn’t like Rakesh.,hi,इस लड़की को राकेश अच्छा नहीं लगता।,This girl doesnt like Rakesh.,af,approved,anger
+312,Do you like to drive?,hi,तुम्हें गाड़ी चलाना अच्छा लगता है?,Do you like to drive?,sl,approved,joy
+313,I like Gaurav.,hi,मैं गौरव को चाहती हूँ।,I like Gaurav.,no,approved,joy
+314,He wants to eat a samosa.,hi,वह समोसा खाना चाहता है।,He wants to eat a samosa.,en,approved,anger
+315,I don’t want to go to the market.,hi,मैं बाज़ार जाना नहीं चाहती।,I dont want to go to the market.,en,approved,anger
+316,I need a new car.,hi,मुझे नई गाड़ी चाहिए।,I need a new car.,en,approved,joy
+317,He/She should come home.,hi,इसे घर आना चाहिए।,HeShe should come home.,en,approved,fear
+318,They should not work on Sunday.,hi,इन्हें रविवार को काम नहीं करना चाहिए।,They should not work on Sunday.,en,approved,anger
+319,I am hungry.,hi,मुझे भूख लगी है।,I am hungry.,id,approved,anger
+320,I am thirsty.,hi,मुझे प्यास लगी है।,I am thirsty.,en,approved,anger
+321,I find yogurt sour.,hi,मुझे दही खट्टा लगता है।,I find yogurt sour.,en,approved,anger
+322,I find bitter gourd bitter.,hi,मुझे करेला कड़वा लगता है।,I find bitter gourd bitter.,no,approved,anger
+323,I find banana sweet.,hi,मुझे केला मीठा लगता है।,I find banana sweet.,en,approved,love
+324,I find mango wafer sweet and sour.,hi,मुझे आम पापड़ खट्टा-मीठा लगता है।,I find mango wafer sweet and sour.,en,approved,love
+325,I find puff pastry salty.,hi,मुझे समोसा नमकीन लगता है।,I find puff pastry salty.,en,approved,love
+326,I find fruit fresh.,hi,मुझे फल ताज़ा लगता है।,I find fruit fresh.,en,approved,joy
+327,I find old butter stale.,hi,मुझे परसों का मक्खन बासी लगता है।,I find old butter stale.,no,approved,sadness
+328,I find rasgulla soft.,hi,मुझे रसगुल्ला नरम लगता है।,I find rasgulla soft.,sv,approved,love
+329,I find jackfruit hard.,hi,मुझे कटहल सख़्त लगता है।,I find jackfruit hard.,sv,approved,anger
+330,I find chickpeas spicy.,hi,मुझे चना मसाला मसालेदार लगता है।,I find chickpeas spicy.,en,approved,love
+331,I find water bland.,hi,मुझे पानी फीका लगता है।,I find water bland.,en,approved,sadness
+332,Sonal’s uncle,hi,सोनल का चाचा,Sonals uncle,ca,approved,anger
+333,Yashu’s book,hi,यशु की किताब,Yashus book,so,approved,anger
+334,Deepak’s table,hi,दीपक का मेज़,Deepaks table,et,approved,anger
+335,Prashant’s laptop,hi,प्रशांत का लैपटॉप,Prashants laptop,ca,approved,joy
+336,नमस्ते,en,Hello,नमस्ते,hi,approved,joy
+337,क्या हाल है?,en,How are you?,क्या हाल है?,hi,approved,anger
+338,नमस्ते,en,Hi,नमस्ते,hi,approved,joy
+339,मैं अच्छा हूँ,en,I'm good,मैं अच्छा हूँ,hi,approved,joy
+340,मैं ठीक हूँ,en,I'm okay,मैं ठीक हूँ,hi,approved,joy
+341,मुझे अच्छा लगता है,en,I feel good,मुझे अच्छा लगता है,hi,approved,joy
+342,मुझे बुरा लगता है,en,I feel bad,मुझे बुरा लगता है,hi,approved,joy
+343,आप क्या?,en,What about you?,आप क्या?,mr,approved,anger
+344,और आप?,en,And you?,और आप?,hi,approved,anger
+345,तुम्हारा नाम क्या है?,en,What's your name?,तुम्हारा नाम क्या है?,hi,approved,anger
+346,मेरा नाम ... है,en,My name is...,मेरा नाम ... है,hi,approved,joy
+347,आपसे मिलकर अच्छा लगा,en,Nice to meet you,आपसे मिलकर अच्छा लगा,hi,approved,joy
+348,क्या हो रहा है?,en,What's up?,क्या हो रहा है?,hi,approved,anger
+349,नया क्या है?,en,What's new?,नया क्या है?,hi,approved,anger
+350,बाथरूम कहाँ है?,en,Where is the bathroom?,बाथरूम कहाँ है?,hi,approved,joy
+351,क्या तुम वो फिर से कह सकते हो?,en,Can you say that again?,क्या तुम वो फिर से कह सकते हो?,hi,approved,joy
+352,तुम कहाँ जॉब करती हो?,en,Where do you work?,तुम कहाँ जॉब करती हो?,hi,approved,joy
+353,क्या आप अंग्रेज़ी बोलते हैं?,en,Do you speak English?,क्या आप अंग्रेज़ी बोलते हैं?,hi,approved,joy
+354,माफ़ कीजिए,en,Excuse me,माफ़ कीजिए,hi,approved,joy
+355,मुझे माफ कर दो,en,I'm sorry,मुझे माफ कर दो,hi,approved,joy
+356,धन्यवाद,en,Thank you,धन्यवाद,ne,approved,joy
+357,आपका स्वागत है,en,You're welcome,आपका स्वागत है,hi,approved,joy
+358,हाँ,en,Yes,हाँ,ne,approved,anger
+359,नहीं,en,No,नहीं,hi,approved,joy
+360,मुझे समझ नहीं आता,en,I don't understand,मुझे समझ नहीं आता,hi,approved,joy
+361,वास्तव में?,en,Really?,वास्तव में?,hi,approved,anger
+362,कृपया,en,Please,कृपया,hi,approved,joy
+363,मुझे यह पसंद है,en,I like it,मुझे यह पसंद है,hi,approved,joy
+364,मुझे यह पसंद नहीं है,en,I don't like it,मुझे यह पसंद नहीं है,hi,approved,joy
+365,आप क्या काम करते हैं?,en,What's your job?,आप क्या काम करते हैं?,hi,approved,joy
+366,मैं हूँ...,en,I am...,मैं हूँ...,hi,approved,anger
+367,अलविदा,en,Bye,अलविदा,hi,approved,joy
+368,बाद में मिलते हैं,en,See you later,बाद में मिलते हैं,hi,approved,joy
+369,फिर मिलते हैं,en,Let's meet again,फिर मिलते हैं,hi,approved,joy
+370,ठंडा,en,Cool,ठंडा,mr,approved,anger
+371,महान,en,Great,महान,mr,approved,joy
+372,अच्छा,en,Good,अच्छा,ne,approved,anger
+373,खराब,en,Bad,खराब,mr,approved,joy
+374,आज मौसम अच्छा है,en,The weather is nice today,आज मौसम अच्छा है,hi,approved,joy
+375,आज मौसम खराब है,en,The weather is bad today,आज मौसम खराब है,hi,approved,joy
+376,आपका पसंदीदा भोजन क्या है?,en,What's your favorite food?,आपका पसंदीदा भोजन क्या है?,hi,approved,joy
+377,चलो खाने चलते हैं,en,Let's go eat,चलो खाने चलते हैं,hi,approved,joy
+378,आप खाने के जाने के लिए करना चाहते हैं?,en,Do you want to go eat?,आप खाने के जाने के लिए करना चाहते हैं?,hi,approved,joy
+379,आपका पसंदीदा संगीत क्या है?,en,What's your favorite music?,आपका पसंदीदा संगीत क्या है?,hi,approved,joy
+380,मुझे पसंद है...,en,I like...,मुझे पसंद है...,hi,approved,joy
+381,स्वादिष्ट,en,Delicious,स्वादिष्ट,hi,approved,joy
+382,यह स्वादिष्ट है,en,It is delicious,यह स्वादिष्ट है,hi,approved,joy
+383,इसका स्वाद अच्छा है,en,It tastes good,इसका स्वाद अच्छा है,hi,approved,joy
+384,यह अच्छा स्वाद नहीं है,en,It does not taste good,यह अच्छा स्वाद नहीं है,hi,approved,joy
+385,आपकी उम्र क्या है?,en,How old are you?,आपकी उम्र क्या है?,hi,approved,joy
+386,,en,,,unknown,approved,unknown
+387,आपकी उम्र/आयु क्या है?,en,What is your age?,आपकी उम्रआयु क्या है?,hi,approved,joy
+388,आपकी उम्र/आयु कितनी है?,en,How old are you?,आपकी उम्रआयु कितनी है?,hi,approved,joy
+389,आप कितने साल के हैं?,en,How old are you?,आप कितने साल के हैं?,hi,approved,joy
+390,मेरी उम्र २१ साल है।,en,I am 21 years old.,मेरी उम्र २१ साल है।,hi,approved,joy
+391,मैं २१ साल का हूँ।,en,I (male) am 21 years old.,मैं २१ साल का हूँ।,hi,approved,joy
+392,मैं २१ साल की हूँ।,en,I (female) am 21 years old.,मैं २१ साल की हूँ।,hi,approved,joy
+393,आपकी आयु कितनी है?,en,How old are you?,आपकी आयु कितनी है?,hi,approved,anger
+394,मेरी आयु १९ वर्ष है।,en,I am 19 years old.,मेरी आयु १९ वर्ष है।,hi,approved,joy
+395,मैं १९ साल का हूँ।,en,I (male) am 19 years old.,मैं १९ साल का हूँ।,hi,approved,joy
+396,मैं १९ साल की हूँ।,en,I (female) am 19 years old.,मैं १९ साल की हूँ।,hi,approved,joy
+397,मैं ३० साल का हूँ।,en,I (male) am 30 years old.,मैं ३० साल का हूँ।,hi,approved,joy
+398,मैं ३० साल की हूँ।,en,I (female) am 30 years old.,मैं ३० साल की हूँ।,hi,approved,joy
+399,मैं विद्यालय में पढ़ता हूँ।,en,I study in school.,मैं विद्यालय में पढ़ता हूँ।,hi,approved,joy
+400,वह बाग में सैर करता है।,en,He strolls in the garden.,वह बाग में सैर करता है।,hi,approved,joy
+401,यह भोजनालय में खाती है।,en,She eats in the restaurant.,यह भोजनालय में खाती है।,hi,approved,joy
+402,मीना और शालु बाज़ार में घूमते हैं।,en,Meena and Shalu roam in the market.,मीना और शालु बाज़ार में घूमते हैं।,hi,approved,joy
+403,आप होटल में सोते हैं।,en,You sleep in a hotel.,आप होटल में सोते हैं।,hi,approved,joy
+404,तुम सिनेमा घर में फ़िल्म देखते हो।,en,You watch a movie in a movie theater.,तुम सिनेमा घर में फ़िल्म देखते हो।,hi,approved,joy
+405,ये मंदिर में पूजा करते हैं।,en,They worship in the temple.,ये मंदिर में पूजा करते हैं।,hi,approved,joy
+406,मैं घर में रहती हूँ।,en,I live in a house.,मैं घर में रहती हूँ।,hi,approved,joy
+407,मैं विद्यालय में पढ़ता हूँ।,en,I study in school.,मैं विद्यालय में पढ़ता हूँ।,hi,approved,joy
+408,वह बाग में सैर करता है।,en,He strolls in the garden.,वह बाग में सैर करता है।,hi,approved,joy
+409,यह भोजनालय में खाती है।,en,She eats in the restaurant.,यह भोजनालय में खाती है।,hi,approved,joy
+410,मीना और शालु बाज़ार में घूमते हैं।,en,Meena and Shalu roam in the market.,मीना और शालु बाज़ार में घूमते हैं।,hi,approved,joy
+411,आप होटल में सोते हैं।,en,You sleep in a hotel.,आप होटल में सोते हैं।,hi,approved,joy
+412,तुम सिनेमा घर में फ़िल्म देखते हो।,en,You watch a movie in a movie theater.,तुम सिनेमा घर में फ़िल्म देखते हो।,hi,approved,joy
+413,ये मंदिर में पूजा करते हैं।,en,They worship in the temple.,ये मंदिर में पूजा करते हैं।,hi,approved,joy
+414,मैं घर में रहती हूँ।,en,I live in a house.,मैं घर में रहती हूँ।,hi,approved,joy
+415,वे समुद्र तट पर घूमते हैं।,en,They roam at the beach.,वे समुद्र तट पर घूमते हैं।,hi,approved,joy
+416,मैं रेलवे स्टेशन पर हूँ।,en,I am at the railway station.,मैं रेलवे स्टेशन पर हूँ।,hi,approved,joy
+417,वह बस स्टैंड पर इंतज़ार करता है।,en,He waits at the bus stop.,वह बस स्टैंड पर इंतज़ार करता है।,hi,approved,joy
+418,मैं घर पर हूँ।,en,I am at home.,मैं घर पर हूँ।,hi,approved,joy
+419,मैं समय पर दफ़्तर जाता हूँ।,en,I go to the office on time.,मैं समय पर दफ़्तर जाता हूँ।,hi,approved,joy
+420,मैं काम पर जाता हूँ।,en,I go to work.,मैं काम पर जाता हूँ।,hi,approved,joy
+421,आप कहाँ से हैं?,en,Where are you from?,आप कहाँ से हैं?,hi,approved,anger
+422,मैं अमरीका से हूँ।,en,I am from America.,मैं अमरीका से हूँ।,hi,approved,joy
+423,वह स्वीडन से है।,en,He/She is from Sweden.,वह स्वीडन से है।,hi,approved,joy
+424,आपका दोस्त मिस्र से है।,en,Your friend is from Egypt.,आपका दोस्त मिस्र से है।,hi,approved,joy
+425,मेरी नानी भारत से है।,en,My grandma is from India.,मेरी नानी भारत से है।,hi,approved,joy
+426,वह दिसंबर तक दिल्ली में रहता है।,en,He stays in Delhi till December.,वह दिसंबर तक दिल्ली में रहता है।,hi,approved,joy
+427,क्या आप शुक्रवार तक काम करते हैं?,en,Do you work till Friday?,क्या आप शुक्रवार तक काम करते हैं?,hi,approved,joy
+428,यह रास्ता कहाँ तक जाता है?,en,How far does this route go?,यह रास्ता कहाँ तक जाता है?,hi,approved,anger
+429,यह रास्ता संग्रहालय तक जाता है।,en,This route goes till the museum.,यह रास्ता संग्रहालय तक जाता है।,hi,approved,joy
+430,वह सुबह तक सोता है।,en,He sleeps until the morning.,वह सुबह तक सोता है।,hi,approved,joy
+431,शाम तक हम घर नहीं आते।,en,We don’t come home till the evening.,शाम तक हम घर नहीं आते।,hi,approved,joy
+432,वे आधी रात तक फ़िल्म देखते हैं।,en,They watch films until midnight.,वे आधी रात तक फ़िल्म देखते हैं।,hi,approved,joy
+433,अमित का भाई,en,Amit’s brother,अमित का भाई,ne,approved,joy
+434,वसुधा की बहन,en,Vasudha’s sister,वसुधा की बहन,hi,approved,joy
+435,आपकी किताब किस रंग की है?,en,What color is your book?,आपकी किताब किस रंग की है?,hi,approved,anger
+436,मेरी किताब नीली है।,en,My book is blue.,मेरी किताब नीली है।,hi,approved,joy
+437,मीरा का घर किस रंग का है?,en,What color is Mira’s house?,मीरा का घर किस रंग का है?,hi,approved,joy
+438,मीरा का घर पीला है।,en,Mira’s house is yellow.,मीरा का घर पीला है।,hi,approved,joy
+439,घास किस रंग की होती है?,en,What color is grass?,घास किस रंग की होती है?,hi,approved,anger
+440,घास हरी होती है।,en,Grass is green.,घास हरी होती है।,hi,approved,joy
+441,वह भूरा सोफ़ा किसका है?,en,Whose brown sofa is that?,वह भूरा सोफ़ा किसका है?,hi,approved,joy
+442,वह भूरा सोफ़ा मेरा है।,en,That brown sofa is mine.,वह भूरा सोफ़ा मेरा है।,hi,approved,joy
+443,वे रंग-बिरंगे फूल किसके हैं?,en,Whose colorful flowers are those?,वे रंगबिरंगे फूल किसके हैं?,hi,approved,anger
+444,वे रंग-बिरंगे फूल कुलदीप के हैं।,en,Those colorful flowers are Kuldeep’s.,वे रंगबिरंगे फूल कुलदीप के हैं।,hi,approved,joy
+445,ये सफ़ेद किताबें किसकी हैं?,en,Whose white books are these?,ये सफ़ेद किताबें किसकी हैं?,hi,approved,anger
+446,ये सफ़ेद किताबें रवीना की हैं।,en,These white books are Raveena’s.,ये सफ़ेद किताबें रवीना की हैं।,hi,approved,joy
+447,कुंग फू पांडा मोटा और बड़ा है।,en,Kung Fu Panda is fat and big.,कुंग फू पांडा मोटा और बड़ा है।,hi,approved,joy
+448,आपकी कुर्सी छोटी है।,en,Your chair is small.,आपकी कुर्सी छोटी है।,hi,approved,joy
+449,यह रास्ता सीधा सिनेमा घर जाता है।,en,This way goes straight to the movie theater.,यह रास्ता सीधा सिनेमा घर जाता है।,hi,approved,joy
+450,"उसका कमरा साफ़ है, पर रीना का कमरा गंदा है।",en,"His room is clean, but Reena’s is dirty.","उसका कमरा साफ़ है, पर रीना का कमरा गंदा है।",hi,approved,joy
+451,"वह आदमी मूर्ख नहीं, चालाक है।",en,"That man is not stupid, he is clever.","वह आदमी मूर्ख नहीं, चालाक है।",hi,approved,joy
+452,क्या यह चीज़ असली है या नकली?,en,Is this thing real or fake?,क्या यह चीज़ असली है या नकली?,hi,approved,joy
+453,मद्रास में आज मौसम कैसा है?,en,How is the weather in Madras today?,मद्रास में आज मौसम कैसा है?,hi,approved,joy
+454,गर्म है।,en,It is hot.,गर्म है।,hi,approved,joy
+455,आपकी माताजी कैसी हैं?,en,How is your mother?,आपकी माताजी कैसी हैं?,hi,approved,anger
+456,वे ठीक हैं।,en,She is fine.,वे ठीक हैं।,hi,approved,joy
+457,आप कैसे हैं?,en,How are you?,आप कैसे हैं?,hi,approved,joy
+458,मैं अच्छा हूँ।,en,I am well.,मैं अच्छा हूँ।,hi,approved,anger
+459,सुनील रमन से चालाक है।,en,Sunil is cleverer than Raman.,सुनील रमन से चालाक है।,hi,approved,joy
+460,सुनील रमन से ज़्यादा ईमानदार है।,en,Sunil is more honest than Raman.,सुनील रमन से ज़्यादा ईमानदार है।,hi,approved,joy
+461,वह आम आदमी से कम ताकतवर है।,en,He is less powerful than an ordinary man.,वह आम आदमी से कम ताकतवर है।,hi,approved,joy
+462,राम श्याम से थोड़ा पतला है।,en,Ram is a little slimmer than Shyam.,राम श्याम से थोड़ा पतला है।,hi,approved,joy
+463,क्या वह सबसे तेज़ है?,en,Is he the fastest?,क्या वह सबसे तेज़ है?,hi,approved,joy
+464,मेरा कमरा सबसे साफ़ है।,en,My room is the cleanest.,मेरा कमरा सबसे साफ़ है।,hi,approved,joy
+465,यह बेहतर है।,en,This is better.,यह बेहतर है।,hi,approved,joy
+466,उनका घर काफ़ी अच्छा है।,en,Their house is quite nice.,उनका घर काफ़ी अच्छा है।,hi,approved,joy
+467,वह मुझसे लंबा है।,en,He is taller than me.,वह मुझसे लंबा है।,hi,approved,joy
+468,तुम उससे ज़्यादा ईमानदार हो।,en,You are more honest than him.,तुम उससे ज़्यादा ईमानदार हो।,hi,approved,joy
+469,फूल इस फूलदान में डालते हैं।,en,Flowers are put in this vase.,फूल इस फूलदान में डालते हैं।,hi,approved,joy
+470,क्या वे लोग इनसे ज़्यादा अच्छे हैं?,en,Are those people better than these?,क्या वे लोग इनसे ज़्यादा अच्छे हैं?,hi,approved,joy
+471,यह औरत उस औरत से कम चुस्त है।,en,This woman is less active than that woman.,यह औरत उस औरत से कम चुस्त है।,hi,approved,joy
+472,क्या आपको दिल्ली पसंद है?,en,Do you like Delhi?,क्या आपको दिल्ली पसंद है?,hi,approved,joy
+473,राकेश को यह लड़की पसंद नहीं।,en,Rakesh doesn’t like this girl.,राकेश को यह लड़की पसंद नहीं।,hi,approved,joy
+474,तुझे बाग में सैर करना पसंद है।,en,You like to stroll in the garden.,तुझे बाग में सैर करना पसंद है।,hi,approved,joy
+475,उसे हमारा काम अच्छा लगता है।,en,He/She likes our work.,उसे हमारा काम अच्छा लगता है।,hi,approved,joy
+476,इस लड़की को राकेश अच्छा नहीं लगता।,en,This girl doesn’t like Rakesh.,इस लड़की को राकेश अच्छा नहीं लगता।,hi,approved,joy
+477,तुम्हें गाड़ी चलाना अच्छा लगता है?,en,Do you like to drive?,तुम्हें गाड़ी चलाना अच्छा लगता है?,hi,approved,joy
+478,मैं गौरव को चाहती हूँ।,en,I like Gaurav.,मैं गौरव को चाहती हूँ।,hi,approved,joy
+479,वह समोसा खाना चाहता है।,en,He wants to eat a samosa.,वह समोसा खाना चाहता है।,hi,approved,joy
+480,मैं बाज़ार जाना नहीं चाहती।,en,I don’t want to go to the market.,मैं बाज़ार जाना नहीं चाहती।,hi,approved,joy
+481,मुझे नई गाड़ी चाहिए।,en,I need a new car.,मुझे नई गाड़ी चाहिए।,hi,approved,joy
+482,इसे घर आना चाहिए।,en,He/She should come home.,इसे घर आना चाहिए।,hi,approved,joy
+483,इन्हें रविवार को काम नहीं करना चाहिए।,en,They should not work on Sunday.,इन्हें रविवार को काम नहीं करना चाहिए।,hi,approved,joy
+484,मुझे भूख लगी है।,en,I am hungry.,मुझे भूख लगी है।,hi,approved,joy
+485,मुझे प्यास लगी है।,en,I am thirsty.,मुझे प्यास लगी है।,hi,approved,joy
+486,मुझे दही खट्टा लगता है।,en,I find yogurt sour.,मुझे दही खट्टा लगता है।,hi,approved,joy
+487,मुझे करेला कड़वा लगता है।,en,I find bitter gourd bitter.,मुझे करेला कड़वा लगता है।,hi,approved,joy
+488,मुझे केला मीठा लगता है।,en,I find banana sweet.,मुझे केला मीठा लगता है।,hi,approved,joy
+489,मुझे आम पापड़ खट्टा-मीठा लगता है।,en,I find mango wafer sweet and sour.,मुझे आम पापड़ खट्टामीठा लगता है।,hi,approved,joy
+490,मुझे समोसा नमकीन लगता है।,en,I find puff pastry salty.,मुझे समोसा नमकीन लगता है।,hi,approved,joy
+491,मुझे फल ताज़ा लगता है।,en,I find fruit fresh.,मुझे फल ताज़ा लगता है।,hi,approved,joy
+492,मुझे परसों का मक्खन बासी लगता है।,en,I find old butter stale.,मुझे परसों का मक्खन बासी लगता है।,hi,approved,joy
+493,मुझे रसगुल्ला नरम लगता है।,en,I find rasgulla soft.,मुझे रसगुल्ला नरम लगता है।,hi,approved,joy
+494,मुझे कटहल सख़्त लगता है।,en,I find jackfruit hard.,मुझे कटहल सख़्त लगता है।,hi,approved,joy
+495,मुझे चना मसाला मसालेदार लगता है।,en,I find chickpeas spicy.,मुझे चना मसाला मसालेदार लगता है।,hi,approved,joy
+496,मुझे पानी फीका लगता है।,en,I find water bland.,मुझे पानी फीका लगता है।,hi,approved,joy
+497,सोनल का चाचा,en,Sonal’s uncle,सोनल का चाचा,mr,approved,joy
+498,यशु की किताब,en,Yashu’s book,यशु की किताब,hi,approved,joy
+499,दीपक का मेज़,en,Deepak’s table,दीपक का मेज़,hi,approved,joy
+500,प्रशांत का लैपटॉप,en,Prashant’s laptop,प्रशांत का लैपटॉप,mr,approved,joy
+501,நா உனைவிட உயரமானவன்,hi,मैं तुम से लम्बा हूँ,நா உனைவிட உயரமானவன்,ta,approved,joy
+502,நா உனைவிட உயரமானவள்,hi,मैं तुम से लम्बी हूँ,நா உனைவிட உயரமானவள்,ta,approved,joy
+503,அருண் பிரியாவை விட உயரமானவன்,hi,"अरुण, प्रिया से छोटा है",அருண் பிரியாவை விட உயரமானவன்,ta,approved,joy
+504,பிரியா அருணை விடஉயரமானவள்,hi,"प्रिया, अरुण से छोटी है",பிரியா அருணை விடஉயரமானவள்,ta,approved,joy
+505,இது அதைவிட நீளமானது,hi,यह उससे लंबा है,இது அதைவிட நீளமானது,ta,approved,joy
+506,அது இதைவிட நீளமானது,hi,यह इससे लंबा है,அது இதைவிட நீளமானது,ta,approved,joy
+507,அருணின் கார்,hi,अण की कार,அருணின் கார்,ta,approved,joy
+508,பிரியாவின் கார்,hi,प्रिया की कार,பிரியாவின் கார்,ta,approved,joy
+509,பிரியாவின் போன்,hi,प्रिया का फोन,பிரியாவின் போன்,ta,approved,joy
+510,பிரியாவின் போன்கள்,hi,प्रिया के फोन,பிரியாவின் போன்கள்,ta,approved,joy
+511,அருணின் புத்தகம்,hi,अण की किताब,அருணின் புத்தகம்,ta,approved,joy
+512,அருணின் புத்தகங்கள்,hi,अण की पुस्तकें,அருணின் புத்தகங்கள்,ta,approved,anger
+513,அருணின் மகன்,hi,अण का बेटा,அருணின் மகன்,ta,approved,joy
+514,பிரியாவின் மகன்,hi,प्रिया का बेटा,பிரியாவின் மகன்,ta,approved,joy
+515,அருணின் மகள்,hi,अण की बेटी,அருணின் மகள்,ta,approved,joy
+516,பிரியாவின் மகள்,hi,प्रिया की बेटी,பிரியாவின் மகள்,ta,approved,joy
+517,பிரியாவின் மகன்கள்,hi,प्रिया के बेटे,பிரியாவின் மகன்கள்,ta,approved,joy
+518,பிரியாவின் மகள்கள்,hi,प्रिया की बेटियाँ,பிரியாவின் மகள்கள்,ta,approved,joy
+519,தயவு செய்து உதவுவீர்களா?,hi,क्या आप मेरी मदद करेंगे?,தயவு செய்து உதவுவீர்களா?,ta,approved,anger
+520,தயவு செய்து பங்கா ஆப் பண்ணுவீர்களா?,hi,क्या आप पंखा बंद कर देंगे?,தயவு செய்து பங்கா ஆப் பண்ணுவீர்களா?,ta,approved,anger
+521,இப்போது என்ன சாப்பிட விரும்புகிறீர்கள்?,hi,अब आप क्या लेना पसंद करेंगे?,இப்போது என்ன சாப்பிட விரும்புகிறீர்கள்?,ta,approved,anger
+522,நான் ஒரு கப் காபி சாப்பிட விரும்புகிறேன்,hi,मैं एक कप कॉफी चाहूँगी,நான் ஒரு கப் காபி சாப்பிட விரும்புகிறேன்,ta,approved,joy
+523,வரவேற்பு,hi,स्वागत है,வரவேற்பு,ta,approved,anger
+524,வணக்கம்,hi,नमस्ते / नमस्कार,வணக்கம்,ta,approved,anger
+525,வணக்கம்,hi,हेलो,வணக்கம்,ta,approved,anger
+526,எப்படி இருக்கிறீர்கள்?,hi,आप कैसे हैं?,எப்படி இருக்கிறீர்கள்?,ta,approved,anger
+527,எப்படி இருக்கிறாய்?,hi,तुम कैसे हो?,எப்படி இருக்கிறாய்?,ta,approved,anger
+528,நான் நன்றாக இருக்கிறேன்,hi,मैं अच्छा हूँ / मैं अच्छी हूँ,நான் நன்றாக இருக்கிறேன்,ta,approved,anger
+529,நெடுநாளாக பார்க்கவில்லை,hi,बहुत समय से दिखे नहीं,நெடுநாளாக பார்க்கவில்லை,ta,approved,joy
+530,உங்கள் பெயர் என்ன?,hi,आपका नाम क्या है?,உங்கள் பெயர் என்ன?,ta,approved,anger
+531,என் பெயர் ...,hi,मेरा नाम ... है,என் பெயர் ...,ta,approved,anger
+532,நீங்கள் எங்கிருந்து வருகிறீர்கள்?,hi,आप कहाँ से हैं?,நீங்கள் எங்கிருந்து வருகிறீர்கள்?,ta,approved,anger
+533,நான் ... இருந்து வருகிறேன்,hi,मैं ... से हूँ,நான் ... இருந்து வருகிறேன்,ta,approved,anger
+534,உங்களை சந்தித்ததில் மகிழ்ச்சி,hi,आप से मिलकर खुशी हुई,உங்களை சந்தித்ததில் மகிழ்ச்சி,ta,approved,joy
+535,காலை வணக்கம்,hi,शुभ प्रभात,காலை வணக்கம்,ta,approved,joy
+536,மதிய வணக்கம்,hi,नमस्ते / शुभ दोपहर,மதிய வணக்கம்,ta,approved,joy
+537,மாலை வணக்கம்,hi,शुभ संध्या,மாலை வணக்கம்,ta,approved,joy
+538,இனிய இரவு,hi,शुभ रात्रि,இனிய இரவு,ta,approved,anger
+539,விடை பெறுகிறேன்,hi,फिर मिलेंगे,விடை பெறுகிறேன்,ta,approved,joy
+540,நல்வாழ்த்துக்கள்,hi,शुभकामनाएँ,நல்வாழ்த்துக்கள்,ta,approved,anger
+541,இனிய நாளாக அமையட்டும்,hi,आपका दिन अच्छा बीते,இனிய நாளாக அமையட்டும்,ta,approved,joy
+542,உணவை ரசித்து உண்க,hi,कृपया भोजन शुरू कीजिए,உணவை ரசித்து உண்க,ta,approved,joy
+543,இனிய பயணமாக அமையட்டும்,hi,शुभ यात्रा,இனிய பயணமாக அமையட்டும்,ta,approved,anger
+544,எனக்கு தெரியாது,hi,मुझे नहीं पता,எனக்கு தெரியாது,ta,approved,anger
+545,உங்களுக்கு புரிகிறதா?,hi,क्या आप समझे?,உங்களுக்கு புரிகிறதா?,ta,approved,anger
+546,நான் புரிந்து கொண்டேன்,hi,मैं समझ गया / गयी,நான் புரிந்து கொண்டேன்,ta,approved,joy
+547,எனக்கு புரியவில்லை,hi,मैं समझा / समझी नहीं,எனக்கு புரியவில்லை,ta,approved,joy
+548,தயவு செய்து மெதுவாக பேசுங்கள்,hi,कृपया धीरे बोलिए,தயவு செய்து மெதுவாக பேசுங்கள்,ta,approved,joy
+549,நீங்கள் அதை மீண்டும் சொல்ல முடியுமா?,hi,कृपया इसे दोहराएँ,நீங்கள் அதை மீண்டும் சொல்ல முடியுமா?,ta,approved,anger
+550,தயவு செய்து எழுதுங்கள்,hi,कृपया लिखिए,தயவு செய்து எழுதுங்கள்,ta,approved,joy
+551,நீங்கள் ஆங்கிலம் பேசுவீர்களா?,hi,क्या आप अंग्रेज़ी बोलते हैं?,நீங்கள் ஆங்கிலம் பேசுவீர்களா?,ta,approved,anger
+552,நீங்கள் हिन्दी பேசுவீர்களா?,hi,क्या आप हिन्दी बोलते हैं?,நீங்கள் हिन्दी பேசுவீர்களா?,ta,approved,anger
+553,"ஆம், கொஞ்சம்",hi,"हाँ, थोड़ी सी","ஆம், கொஞ்சம்",ta,approved,anger
+554,மன்னிக்கவும்,hi,माफ कीजिए,மன்னிக்கவும்,ta,approved,joy
+555,நன்றி,hi,धन्यवाद,நன்றி,ta,approved,anger
+556,கழிப்பறை எங்கே?,hi,टॉयलेट कहाँ है?,கழிப்பறை எங்கே?,ta,approved,anger
+557,உதவி!,hi,मदद!,உதவி!,ta,approved,anger
+558,தீ!,hi,आग!,தீ!,ta,approved,anger
+559,நிறுத்து!,hi,रुकिए!,நிறுத்து!,ta,approved,anger
+560,காவல்துறையினரை அழைக்கவும்!,hi,पुलिस को बुलाओ!,காவல்துறையினரை அழைக்கவும்!,ta,approved,anger
+561,பிறந்தநாள் வாழ்த்துக்கள்,hi,जन्मदिन मुबारक हो,பிறந்தநாள் வாழ்த்துக்கள்,ta,approved,anger
+562,புத்தாண்டு வாழ்த்துக்கள்,hi,नये साल की शुभकामनाएँ,புத்தாண்டு வாழ்த்துக்கள்,ta,approved,anger
+563,ஈஸ்டர் வாழ்த்துக்கள்,hi,ईस्टर की शुभकामनाएँ,ஈஸ்டர் வாழ்த்துக்கள்,ta,approved,anger
+564,வாழ்த்துக்கள்!,hi,बधाई!,வாழ்த்துக்கள்!,ta,approved,anger
+565,தண்ணீரை சேமிக்கவும்,hi,पानी बचाओ,தண்ணீரை சேமிக்கவும்,ta,approved,joy
+566,स्वागत है,ta,வரவேற்பு,स्वागत है,hi,approved,joy
+567,नमस्ते / नमस्कार,ta,வணக்கம்,नमस्ते नमस्कार,hi,approved,joy
+568,हेलो,ta,வணக்கம்,हेलो,mr,approved,joy
+569,आप कैसे हैं?,ta,எப்படி இருக்கிறீர்கள்?,आप कैसे हैं?,hi,approved,joy
+570,तुम कैसे हो?,ta,எப்படி இருக்கிறாய்?,तुम कैसे हो?,hi,approved,joy
+571,मैं अच्छा हूँ / मैं अच्छी हूँ,ta,நான் நன்றாக இருக்கிறேன்,मैं अच्छा हूँ मैं अच्छी हूँ,hi,approved,joy
+572,बहुत समय से दिखे नहीं,ta,நெடுநாளாக பார்க்கவில்லை,बहुत समय से दिखे नहीं,hi,approved,joy
+573,आपका नाम क्या है?,ta,உங்கள் பெயர் என்ன?,आपका नाम क्या है?,hi,approved,joy
+574,मेरा नाम ... है,ta,என் பெயர் ...,मेरा नाम ... है,hi,approved,joy
+575,आप कहाँ से हैं?,ta,நீங்கள் எங்கிருந்து வருகிறீர்கள்?,आप कहाँ से हैं?,hi,approved,anger
+576,मैं ... से हूँ,ta,நான் ... இருந்து வருகிறேன்,मैं ... से हूँ,hi,approved,anger
+577,आप से मिलकर खुशी हुई,ta,உங்களை சந்தித்ததில் மகிழ்ச்சி,आप से मिलकर खुशी हुई,hi,approved,joy
+578,शुभ प्रभात,ta,காலை வணக்கம்,शुभ प्रभात,ne,approved,joy
+579,नमस्ते / शुभ दोपहर,ta,மதிய வணக்கம்,नमस्ते शुभ दोपहर,hi,approved,joy
+580,शुभ संध्या,ta,மாலை வணக்கம்,शुभ संध्या,mr,approved,joy
+581,शुभ रात्रि,ta,இனிய இரவு,शुभ रात्रि,ne,approved,joy
+582,फिर मिलेंगे,ta,விடை பெறுகிறேன்,फिर मिलेंगे,hi,approved,joy
+583,शुभकामनाएँ,ta,நல்வாழ்த்துக்கள்,शुभकामनाएँ,ne,approved,joy
+584,आपका दिन अच्छा बीते,ta,இனிய நாளாக அமையட்டும்,आपका दिन अच्छा बीते,hi,approved,joy
+585,कृपया भोजन शुरू कीजिए,ta,உணவை ரசித்து உண்க,कृपया भोजन शुरू कीजिए,hi,approved,joy
+586,शुभ यात्रा,ta,இனிய பயணமாக அமையட்டும்,शुभ यात्रा,mr,approved,joy
+587,मुझे नहीं पता,ta,எனக்கு தெரியாது,मुझे नहीं पता,hi,approved,joy
+588,क्या आप समझे?,ta,உங்களுக்கு புரிகிறதா?,क्या आप समझे?,mr,approved,joy
+589,मैं समझ गया / गयी,ta,நான் புரிந்து கொண்டேன்,मैं समझ गया गयी,hi,approved,joy
+590,मैं समझा / समझी नहीं,ta,எனக்கு புரியவில்லை,मैं समझा समझी नहीं,hi,approved,joy
+591,कृपया धीरे बोलिए,ta,தயவு செய்து மெதுவாக பேசுங்கள்,कृपया धीरे बोलिए,hi,approved,joy
+592,कृपया इसे दोहराएँ,ta,நீங்கள் அதை மீண்டும் சொல்ல முடியுமா?,कृपया इसे दोहराएँ,hi,approved,joy
+593,कृपया लिखिए,ta,தயவு செய்து எழுதுங்கள்,कृपया लिखिए,hi,approved,joy
+594,क्या आप अंग्रेज़ी बोलते हैं?,ta,நீங்கள் ஆங்கிலம் பேசுவீர்களா?,क्या आप अंग्रेज़ी बोलते हैं?,hi,approved,joy
+595,क्या आप हिन्दी बोलते हैं?,ta,நீங்கள் हिन्दी பேசுவீர்களா?,क्या आप हिन्दी बोलते हैं?,hi,approved,joy
+596,"हाँ, थोड़ी सी",ta,"ஆம், கொஞ்சம்","हाँ, थोड़ी सी",hi,approved,joy
+597,माफ कीजिए,ta,மன்னிக்கவும்,माफ कीजिए,hi,approved,joy
+598,धन्यवाद,ta,நன்றி,धन्यवाद,ne,approved,joy
+599,टॉयलेट कहाँ है?,ta,கழிப்பறை எங்கே?,टॉयलेट कहाँ है?,hi,approved,anger
+600,मदद!,ta,உதவி!,मदद!,hi,approved,joy
+601,आग!,ta,தீ!,आग!,mr,approved,joy
+602,रुकिए!,ta,நிறுத்து!,रुकिए!,ne,approved,joy
+603,पुलिस को बुलाओ!,ta,காவல்துறையினரை அழைக்கவும்!,पुलिस को बुलाओ!,ne,approved,joy
+604,जन्मदिन मुबारक हो,ta,பிறந்தநாள் வாழ்த்துக்கள்,जन्मदिन मुबारक हो,ne,approved,joy
+605,नये साल की शुभकामनाएँ,ta,புத்தாண்டு வாழ்த்துக்கள்,नये साल की शुभकामनाएँ,hi,approved,joy
+606,ईस्टर की शुभकामनाएँ,ta,ஈஸ்டர் வாழ்த்துக்கள்,ईस्टर की शुभकामनाएँ,hi,approved,joy
+607,बधाई!,ta,வாழ்த்துக்கள்!,बधाई!,ne,approved,anger
+608,पानी बचाओ,ta,தண்ணீரை சேமிக்கவும்,पानी बचाओ,mr,approved,joy
+609,मैं तुम से लम्बा हूँ,ta,நா உனைவிட உயரமானவன்,मैं तुम से लम्बा हूँ,hi,approved,joy
+610,मैं तुम से लम्बी हूँ,ta,நா உனைவிட உயரமானவள்,मैं तुम से लम्बी हूँ,hi,approved,joy
+611,"अरुण, प्रिया से छोटा है",ta,அருண் பிரியாவை விட உயரமானவன்,"अरुण, प्रिया से छोटा है",hi,approved,joy
+612,"प्रिया, अरुण से छोटी है",ta,பிரியா அருணை விடஉயரமானவள்,"प्रिया, अरुण से छोटी है",hi,approved,joy
+613,यह उससे लंबा है,ta,இது அதைவிட நீளமானது,यह उससे लंबा है,hi,approved,joy
+614,यह इससे लंबा है,ta,அது இதைவிட நீளமானது,यह इससे लंबा है,hi,approved,joy
+615,अण की कार,ta,அருணின் கார்,अण की कार,hi,approved,joy
+616,प्रिया की कार,ta,பிரியாவின் கார்,प्रिया की कार,hi,approved,joy
+617,प्रिया का फोन,ta,பிரியாவின் போன்,प्रिया का फोन,hi,approved,joy
+618,प्रिया के फोन,ta,பிரியாவின் போன்கள்,प्रिया के फोन,hi,approved,joy
+619,अण की किताब,ta,அருணின் புத்தகம்,अण की किताब,hi,approved,joy
+620,अण की पुस्तकें,ta,அருணின் புத்தகங்கள்,अण की पुस्तकें,hi,approved,joy
+621,अण का बेटा,ta,அருணின் மகன்,अण का बेटा,mr,approved,joy
+622,प्रिया का बेटा,ta,பிரியாவின் மகன்,प्रिया का बेटा,ne,approved,joy
+623,अण की बेटी,ta,அருணின் மகள்,अण की बेटी,hi,approved,joy
+624,प्रिया की बेटी,ta,பிரியாவின் மகள்,प्रिया की बेटी,hi,approved,joy
+625,प्रिया के बेटे,ta,பிரியாவின் மகன்கள்,प्रिया के बेटे,hi,approved,joy
+626,प्रिया की बेटियाँ,ta,பிரியாவின் மகள்கள்,प्रिया की बेटियाँ,hi,approved,joy
+627,क्या आप मेरी मदद करेंगे?,ta,தயவு செய்து உதவுவீர்களா?,क्या आप मेरी मदद करेंगे?,hi,approved,joy
+628,क्या आप पंखा बंद कर देंगे?,ta,தயவு செய்து பங்கா ஆப் பண்ணுவீர்களா?,क्या आप पंखा बंद कर देंगे?,hi,approved,joy
+629,अब आप क्या लेना पसंद करेंगे?,ta,இப்போது என்ன சாப்பிட விரும்புகிறீர்கள்?,अब आप क्या लेना पसंद करेंगे?,hi,approved,joy
+630,मैं एक कप कॉफी चाहूँगी,ta,நான் ஒரு கப் காபி சாப்பிட விரும்புகிறேன்,मैं एक कप कॉफी चाहूँगी,hi,approved,joy
+631,स्वागत है,ta,வரவேற்பு,स्वागत है,hi,approved,joy
+632,नमस्ते / नमस्कार,ta,வணக்கம்,नमस्ते नमस्कार,hi,approved,joy
+633,हेलो,ta,வணக்கம்,हेलो,mr,approved,joy
+634,आप कैसे हैं?,ta,எப்படி இருக்கிறீர்கள்?,आप कैसे हैं?,hi,approved,joy
+635,तुम कैसे हो?,ta,எப்படி இருக்கிறாய்?,तुम कैसे हो?,hi,approved,joy
+636,मैं अच्छा हूँ / मैं अच्छी हूँ,ta,நான் நன்றாக இருக்கிறேன்,मैं अच्छा हूँ मैं अच्छी हूँ,hi,approved,joy
+637,बहुत समय से दिखे नहीं,ta,நெடுநாளாக பார்க்கவில்லை,बहुत समय से दिखे नहीं,hi,approved,joy
+638,आपका नाम क्या है?,ta,உங்கள் பெயர் என்ன?,आपका नाम क्या है?,hi,approved,joy
+639,मेरा नाम ... है,ta,என் பெயர் ...,मेरा नाम ... है,hi,approved,joy
+640,आप कहाँ से हैं?,ta,நீங்கள் எங்கிருந்து வருகிறீர்கள்?,आप कहाँ से हैं?,hi,approved,anger
+641,मैं ... से हूँ,ta,நான் ... இருந்து வருகிறேன்,मैं ... से हूँ,hi,approved,anger
+642,आप से मिलकर खुशी हुई,ta,உங்களை சந்தித்ததில் மகிழ்ச்சி,आप से मिलकर खुशी हुई,hi,approved,joy
+643,शुभ प्रभात,ta,காலை வணக்கம்,शुभ प्रभात,ne,approved,joy
+644,नमस्ते / शुभ दोपहर,ta,மதிய வணக்கம்,नमस्ते शुभ दोपहर,hi,approved,joy
+645,शुभ संध्या,ta,மாலை வணக்கம்,शुभ संध्या,mr,approved,joy
+646,शुभ रात्रि,ta,இனிய இரவு,शुभ रात्रि,ne,approved,joy
+647,फिर मिलेंगे,ta,விடை பெறுகிறேன்,फिर मिलेंगे,hi,approved,joy
+648,शुभकामनाएँ,ta,நல்வாழ்த்துக்கள்,शुभकामनाएँ,ne,approved,joy
+649,आपका दिन अच्छा बीते,ta,இனிய நாளாக அமையட்டும்,आपका दिन अच्छा बीते,hi,approved,joy
+650,कृपया भोजन शुरू कीजिए,ta,உணவை ரசித்து உண்க,कृपया भोजन शुरू कीजिए,hi,approved,joy
+651,शुभ यात्रा,ta,இனிய பயணமாக அமையட்டும்,शुभ यात्रा,mr,approved,joy
+652,मुझे नहीं पता,ta,எனக்கு தெரியாது,मुझे नहीं पता,hi,approved,joy
+653,क्या आप समझे?,ta,உங்களுக்கு புரிகிறதா?,क्या आप समझे?,mr,approved,joy
+654,मैं समझ गया / गयी,ta,நான் புரிந்து கொண்டேன்,मैं समझ गया गयी,hi,approved,joy
+655,मैं समझा / समझी नहीं,ta,எனக்கு புரியவில்லை,मैं समझा समझी नहीं,hi,approved,joy
+656,कृपया धीरे बोलिए,ta,தயவு செய்து மெதுவாக பேசுங்கள்,कृपया धीरे बोलिए,hi,approved,joy
+657,कृपया इसे दोहराएँ,ta,நீங்கள் அதை மீண்டும் சொல்ல முடியுமா?,कृपया इसे दोहराएँ,hi,approved,joy
+658,कृपया लिखिए,ta,தயவு செய்து எழுதுங்கள்,कृपया लिखिए,hi,approved,joy
+659,क्या आप अंग्रेज़ी बोलते हैं?,ta,நீங்கள் ஆங்கிலம் பேசுவீர்களா?,क्या आप अंग्रेज़ी बोलते हैं?,hi,approved,joy
+660,क्या आप हिन्दी बोलते हैं?,ta,நீங்கள் हिन्दी பேசுவீர்களா?,क्या आप हिन्दी बोलते हैं?,hi,approved,joy
+661,"हाँ, थोड़ी सी",ta,"ஆம், கொஞ்சம்","हाँ, थोड़ी सी",hi,approved,joy
+662,माफ कीजिए,ta,மன்னிக்கவும்,माफ कीजिए,hi,approved,joy
+663,धन्यवाद,ta,நன்றி,धन्यवाद,ne,approved,joy
+664,टॉयलेट कहाँ है?,ta,கழிப்பறை எங்கே?,टॉयलेट कहाँ है?,hi,approved,anger
+665,मदद!,ta,உதவி!,मदद!,hi,approved,joy
+666,आग!,ta,தீ!,आग!,mr,approved,joy
+667,रुकिए!,ta,நிறுத்து!,रुकिए!,ne,approved,joy
+668,पुलिस को बुलाओ!,ta,காவல்துறையினரை அழைக்கவும்!,पुलिस को बुलाओ!,ne,approved,joy
+669,जन्मदिन मुबारक हो,ta,பிறந்தநாள் வாழ்த்துக்கள்,जन्मदिन मुबारक हो,ne,approved,joy
+670,नये साल की शुभकामनाएँ,ta,புத்தாண்டு வாழ்த்துக்கள்,नये साल की शुभकामनाएँ,hi,approved,joy
+671,ईस्टर की शुभकामनाएँ,ta,ஈஸ்டர் வாழ்த்துக்கள்,ईस्टर की शुभकामनाएँ,hi,approved,joy
+672,बधाई!,ta,வாழ்த்துக்கள்!,बधाई!,ne,approved,anger
+673,पानी बचाओ,ta,தண்ணீரை சேமிக்கவும்,पानी बचाओ,mr,approved,joy
